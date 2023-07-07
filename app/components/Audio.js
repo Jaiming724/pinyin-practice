@@ -1,15 +1,13 @@
-async function fetchAudio() {
-    const res = await fetch("http://localhost:3000/api/")
+async function fetchAudio(id, group) {
+    const res = await fetch(`/api/audio/search?id=${id}&group=${group}`)
     return res.json()
 }
-
 import React from 'react';
 
-async function Audio(props) {
-    const audios = await fetchAudio();
-    console.log(audios["aDcDK9r5Br"])
+async function Audio({id, group}) {
+    const audios = await fetchAudio(id,group);
     return (
-        <div>{audios["aDcDK9r5Br"]}
+        <div>{audios}
         </div>
     );
 }

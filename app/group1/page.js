@@ -6,7 +6,7 @@ import AudioPlayer from "@/app/components/AudioPlayer";
 function Group1Page(props) {
     return (
         <div>
-            <Audio></Audio>
+            <Audio id="aDcDK9r5Br" group="a"></Audio>
             <FlashCard q="爱" a="ài"></FlashCard>
         </div>
     );
