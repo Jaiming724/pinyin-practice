@@ -12,14 +12,13 @@ export default function AudioPlayer({audio_link}) {
             console.log("Error has Occurred")
         }
     }
-    useEffect(()=>{
+    useEffect(() => {
         play();
     })
     return (
         <div>
             <a onClick={play}>
                 <PlayIcon className="h-6 w-6 hover:cursor-pointer" aria-hidden="true"></PlayIcon>
-
             </a>
             <audio ref={audioRef} src={audio_link}/>
         </div>
