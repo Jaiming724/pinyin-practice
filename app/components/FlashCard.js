@@ -67,7 +67,7 @@ const Flashcard = ({q, a, audio_link, shouldFlip, setShouldFlip, getNextQuestion
             <div className="px-6 py-4">
                 <div className="flex flex-col items-center">
                     <h1 className="flex items-center font-bold text-xl mb-2 text-center">{isFlipped ? a : q}</h1>
-                    <AudioPlayer className="flex items-center" audio_link={audio_link}></AudioPlayer>
+                    <AudioPlayer className="flex items-center" audio_link={audio_link} isFlipped={isFlipped}></AudioPlayer>
                 </div>
             </div>
             <div className="px-6 py-4 flex flex-col">

@@ -2,7 +2,7 @@
 import {useEffect, useRef} from 'react';
 import {PlayIcon} from "@heroicons/react/24/solid";
 
-export default function AudioPlayer({audio_link}) {
+export default function AudioPlayer({audio_link, isFlipped}) {
     const audioRef = useRef();
 
     const play = () => {
@@ -13,8 +13,10 @@ export default function AudioPlayer({audio_link}) {
         }
     }
     useEffect(() => {
-        play();
-    })
+        setTimeout(() => {
+            play();
+        }, 500)
+    }, [isFlipped])
     return (
         <div>
             <a onClick={play}>
