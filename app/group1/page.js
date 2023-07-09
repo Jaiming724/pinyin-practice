@@ -1,13 +1,10 @@
 import React from 'react';
-import Audio from "@/app/components/Audio";
-import FlashCard from "@/app/components/FlashCard";
-import AudioPlayer from "@/app/components/AudioPlayer";
+import QuizCard from "@/app/components/QuizCard";
 
 function Group1Page(props) {
     return (
         <div>
-            <Audio id="aDcDK9r5Br" group="a"></Audio>
-            <FlashCard q="爱" a="ài"></FlashCard>
+            <QuizCard></QuizCard>
         </div>
     );
 }

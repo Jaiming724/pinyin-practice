@@ -13,7 +13,7 @@ export default function AudioPlayer({audio_link}) {
         }
     }
     useEffect(()=>{
-        //play();
+        play();
     })
     return (
         <div>

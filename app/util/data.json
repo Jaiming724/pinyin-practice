@@ -1,0 +1,9226 @@
+{
+  "first": [
+    {
+      "hanzi": "\u7231",
+      "id": "aDcDK9r5Br",
+      "pinyin": "\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "love, like"
+    },
+    {
+      "hanzi": "\u516b",
+      "id": "gBCSRS9HAG",
+      "pinyin": "b\u0101",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "eight"
+    },
+    {
+      "hanzi": "\u83dc",
+      "id": "odyLFKhBKE",
+      "pinyin": "c\u00e0i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "vegetable"
+    },
+    {
+      "hanzi": "\u8336",
+      "id": "fpHAyzG000",
+      "pinyin": "ch\u00e1",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "tea"
+    },
+    {
+      "hanzi": "\u5927",
+      "id": "dd87i919Hi",
+      "pinyin": "d\u00e0",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "big"
+    },
+    {
+      "hanzi": "\u597d",
+      "id": "qaCOvUKWdg",
+      "pinyin": "h\u01ceo",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "good"
+    },
+    {
+      "hanzi": "\u53f7",
+      "id": "PCb0quRRUZ",
+      "pinyin": "h\u00e0o",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "date"
+    },
+    {
+      "hanzi": "\u5f00",
+      "id": "qz15GN0A2m",
+      "pinyin": "k\u0101i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "open"
+    },
+    {
+      "hanzi": "\u770b",
+      "id": "mmE5RoV6Gh",
+      "pinyin": "k\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "watch"
+    },
+    {
+      "hanzi": "\u770b",
+      "id": "mmE5RoV6Gh",
+      "pinyin": "k\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "watch"
+    },
+    {
+      "hanzi": "\u6765",
+      "id": "tBFJRwaBuB",
+      "pinyin": "l\u00e1i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "come"
+    },
+    {
+      "hanzi": "\u5417",
+      "id": "aEVF6Gv90D",
+      "pinyin": "ma",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "question particule"
+    },
+    {
+      "hanzi": "\u4e70",
+      "id": "WO7PNFMhh1",
+      "pinyin": "m\u01cei",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "buy"
+    },
+    {
+      "hanzi": "\u732b",
+      "id": "gygX5kUcP0",
+      "pinyin": "m\u0101o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "cat"
+    },
+    {
+      "hanzi": "\u54ea",
+      "id": "QzRgICPZtQ",
+      "pinyin": "n\u01ce",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "which"
+    },
+    {
+      "hanzi": "\u90a3",
+      "id": "7inLW823MZ",
+      "pinyin": "n\u00e0",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "that"
+    },
+    {
+      "hanzi": "\u4e09",
+      "id": "PvJxXdCqBg",
+      "pinyin": "s\u0101n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "three"
+    },
+    {
+      "hanzi": "\u4e09",
+      "id": "PvJxXdCqBg",
+      "pinyin": "s\u0101n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "three"
+    },
+    {
+      "hanzi": "\u4e0a",
+      "id": "D7dc02f5iq",
+      "pinyin": "sh\u00e0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "up, on"
+    },
+    {
+      "hanzi": "\u4e0a",
+      "id": "D7dc02f5iq",
+      "pinyin": "sh\u00e0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "up, on"
+    },
+    {
+      "hanzi": "\u5c11",
+      "id": "fjOPqhBJaJ",
+      "pinyin": "sh\u01ceo",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "little, few"
+    },
+    {
+      "hanzi": "\u4ed6",
+      "id": "tmzEW63bOd",
+      "pinyin": "t\u0101",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "he, him"
+    },
+    {
+      "hanzi": "\u5979",
+      "id": "4LGUJu6JXg",
+      "pinyin": "t\u0101",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "she, her"
+    },
+    {
+      "hanzi": "\u592a",
+      "id": "dXRYHYcgqS",
+      "pinyin": "t\u00e0i",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "too"
+    },
+    {
+      "hanzi": "\u5728",
+      "id": "59gHui6tbv",
+      "pinyin": "z\u00e0i",
+      "speechPart": [
+        "v",
+        "prep"
+      ],
+      "definition": "be at (a place); in (a place)"
+    },
+    {
+      "hanzi": "\u5427",
+      "id": "fJ1A5H8KxE",
+      "pinyin": "ba",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(suggestion or request particle)"
+    },
+    {
+      "hanzi": "\u767d",
+      "id": "ZfyLU8eEIR",
+      "pinyin": "b\u00e1i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "white"
+    },
+    {
+      "hanzi": "\u767e",
+      "id": "DGH85JWpZp",
+      "pinyin": "b\u01cei",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "hundred"
+    },
+    {
+      "hanzi": "\u957f",
+      "id": "Cd8UpgcTGY",
+      "pinyin": "ch\u00e1ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "long"
+    },
+    {
+      "hanzi": "\u5230",
+      "id": "o4w2jmWEHv",
+      "pinyin": "d\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "arrive, reach"
+    },
+    {
+      "hanzi": "\u9ad8",
+      "id": "fQrVurMdJG",
+      "pinyin": "g\u0101o",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "tall, high"
+    },
+    {
+      "hanzi": "\u8fd8",
+      "id": "K331IKSAY2",
+      "pinyin": "h\u00e1i",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "still"
+    },
+    {
+      "hanzi": "\u5356",
+      "id": "ppIB7aTiWA",
+      "pinyin": "m\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "sell"
+    },
+    {
+      "hanzi": "\u6162",
+      "id": "vPqGYG1rDp",
+      "pinyin": "m\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "slow"
+    },
+    {
+      "hanzi": "\u6162",
+      "id": "vPqGYG1rDp",
+      "pinyin": "m\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "slow"
+    },
+    {
+      "hanzi": "\u5fd9",
+      "id": "asvHVggw14",
+      "pinyin": "m\u00e1ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "busy"
+    },
+    {
+      "hanzi": "\u5fd9",
+      "id": "asvHVggw14",
+      "pinyin": "m\u00e1ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "busy"
+    },
+    {
+      "hanzi": "\u7537",
+      "id": "Rew2lC2yZW",
+      "pinyin": "n\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "man, male"
+    },
+    {
+      "hanzi": "\u7537",
+      "id": "Rew2lC2yZW",
+      "pinyin": "n\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "man, male"
+    },
+    {
+      "hanzi": "\u8ba9",
+      "id": "BvVvDwiwME",
+      "pinyin": "r\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "let"
+    },
+    {
+      "hanzi": "\u8ba9",
+      "id": "BvVvDwiwME",
+      "pinyin": "r\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "let"
+    },
+    {
+      "hanzi": "\u5b83",
+      "id": "AGsMgdr0Cr",
+      "pinyin": "t\u0101",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "it"
+    },
+    {
+      "hanzi": "\u518d",
+      "id": "PkWIhnBgy4",
+      "pinyin": "z\u00e0i",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "again"
+    },
+    {
+      "hanzi": "\u627e",
+      "id": "3I0NTb5Nz3",
+      "pinyin": "zh\u01ceo",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "look for"
+    },
+    {
+      "hanzi": "\u554a",
+      "id": "TaHi5BtFAF",
+      "pinyin": "a",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "(showing affirmation)"
+    },
+    {
+      "hanzi": "\u77ee",
+      "id": "MccUTblnYC",
+      "pinyin": "\u01cei",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "short"
+    },
+    {
+      "hanzi": "\u628a",
+      "id": "GrCOSkA5Yy",
+      "pinyin": "b\u01ce",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "(particle marking the following noun as a direct object)"
+    },
+    {
+      "hanzi": "\u73ed",
+      "id": "0iUcP3LHfS",
+      "pinyin": "b\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "class"
+    },
+    {
+      "hanzi": "\u73ed",
+      "id": "0iUcP3LHfS",
+      "pinyin": "b\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "class"
+    },
+    {
+      "hanzi": "\u642c",
+      "id": "OEUARLdjx4",
+      "pinyin": "b\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "move"
+    },
+    {
+      "hanzi": "\u642c",
+      "id": "OEUARLdjx4",
+      "pinyin": "b\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "move"
+    },
+    {
+      "hanzi": "\u534a",
+      "id": "thjQ1fMwHn",
+      "pinyin": "b\u00e0n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "half"
+    },
+    {
+      "hanzi": "\u534a",
+      "id": "thjQ1fMwHn",
+      "pinyin": "b\u00e0n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "half"
+    },
+    {
+      "hanzi": "\u5305",
+      "id": "6tfwvR6qDa",
+      "pinyin": "b\u0101o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bag"
+    },
+    {
+      "hanzi": "\u9971",
+      "id": "QD1iFu9oza",
+      "pinyin": "b\u01ceo",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "full"
+    },
+    {
+      "hanzi": "\u8349",
+      "id": "bPu4KISN2N",
+      "pinyin": "c\u01ceo",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "grass"
+    },
+    {
+      "hanzi": "\u5dee",
+      "id": "ZysxbNP06N",
+      "pinyin": "ch\u00e0",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "bad; be less than"
+    },
+    {
+      "hanzi": "\u5c1d",
+      "id": "mz6afmfbvE",
+      "pinyin": "ch\u00e1ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "taste"
+    },
+    {
+      "hanzi": "\u5c1d",
+      "id": "mz6afmfbvE",
+      "pinyin": "ch\u00e1ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "taste"
+    },
+    {
+      "hanzi": "\u5e26",
+      "id": "ooTtZEYcqq",
+      "pinyin": "d\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take"
+    },
+    {
+      "hanzi": "\u53d1",
+      "id": "7Z9BBuebc1",
+      "pinyin": "f\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "deliver, occur"
+    },
+    {
+      "hanzi": "\u653e",
+      "id": "RGtbzkqARF",
+      "pinyin": "f\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "release, put"
+    },
+    {
+      "hanzi": "\u653e",
+      "id": "RGtbzkqARF",
+      "pinyin": "f\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "release, put"
+    },
+    {
+      "hanzi": "\u84dd",
+      "id": "NkjTkL0y6D",
+      "pinyin": "l\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "blue"
+    },
+    {
+      "hanzi": "\u84dd",
+      "id": "NkjTkL0y6D",
+      "pinyin": "l\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "blue"
+    },
+    {
+      "hanzi": "\u8001",
+      "id": "meLBQpmqP0",
+      "pinyin": "l\u01ceo",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "aged, old"
+    },
+    {
+      "hanzi": "\u9a6c",
+      "id": "XiB23YL5F6",
+      "pinyin": "m\u01ce",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "horse"
+    },
+    {
+      "hanzi": "\u62ff",
+      "id": "uVEFzVatxB",
+      "pinyin": "n\u00e1",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take, hold"
+    },
+    {
+      "hanzi": "\u5357",
+      "id": "CltQ9TCfjj",
+      "pinyin": "n\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "south"
+    },
+    {
+      "hanzi": "\u5357",
+      "id": "CltQ9TCfjj",
+      "pinyin": "n\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "south"
+    },
+    {
+      "hanzi": "\u96be",
+      "id": "D9bjVdcENo",
+      "pinyin": "n\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "difficult, hard"
+    },
+    {
+      "hanzi": "\u96be",
+      "id": "D9bjVdcENo",
+      "pinyin": "n\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "difficult, hard"
+    },
+    {
+      "hanzi": "\u80d6",
+      "id": "NL21NQdrKi",
+      "pinyin": "p\u00e0ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "fat"
+    },
+    {
+      "hanzi": "\u80d6",
+      "id": "NL21NQdrKi",
+      "pinyin": "p\u00e0ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "fat"
+    },
+    {
+      "hanzi": "\u4f1e",
+      "id": "SNUCnRz3jI",
+      "pinyin": "s\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "umbrella"
+    },
+    {
+      "hanzi": "\u4f1e",
+      "id": "SNUCnRz3jI",
+      "pinyin": "s\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "umbrella"
+    },
+    {
+      "hanzi": "\u7ad9",
+      "id": "CxQUJKU3dI",
+      "pinyin": "zh\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stand"
+    },
+    {
+      "hanzi": "\u7ad9",
+      "id": "CxQUJKU3dI",
+      "pinyin": "zh\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stand"
+    },
+    {
+      "hanzi": "\u5f20",
+      "id": "E06TY155hK",
+      "pinyin": "zh\u0101ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "piece"
+    },
+    {
+      "hanzi": "\u5f20",
+      "id": "E06TY155hK",
+      "pinyin": "zh\u0101ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "piece"
+    },
+    {
+      "hanzi": "\u957f",
+      "id": "ooVzPH06kw",
+      "pinyin": "zh\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "grow"
+    },
+    {
+      "hanzi": "\u957f",
+      "id": "ooVzPH06kw",
+      "pinyin": "zh\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "grow"
+    },
+    {
+      "hanzi": "\u624d",
+      "id": "TLTZPuxGMj",
+      "pinyin": "c\u00e1i",
+      "speechPart": [
+        "-"
+      ],
+      "definition": "only, only then"
+    },
+    {
+      "hanzi": "\u68d2",
+      "id": "zeeCh19VHp",
+      "pinyin": "b\u00e0ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "wonderful, excellent"
+    },
+    {
+      "hanzi": "\u68d2",
+      "id": "zeeCh19VHp",
+      "pinyin": "b\u00e0ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "wonderful, excellent"
+    },
+    {
+      "hanzi": "\u62b1",
+      "id": "fQgUUGOxcB",
+      "pinyin": "b\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hug, hold in arms"
+    },
+    {
+      "hanzi": "\u64e6",
+      "id": "4tIkGRDRB2",
+      "pinyin": "c\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "spread on, rub, wipe clean"
+    },
+    {
+      "hanzi": "\u731c",
+      "id": "6MH2CkR27q",
+      "pinyin": "c\u0101i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "guess"
+    },
+    {
+      "hanzi": "\u573a",
+      "id": "5IKiODHLlf",
+      "pinyin": "ch\u01ceng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for recreation and sports)"
+    },
+    {
+      "hanzi": "\u573a",
+      "id": "5IKiODHLlf",
+      "pinyin": "ch\u01ceng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for recreation and sports)"
+    },
+    {
+      "hanzi": "\u6234",
+      "id": "ChZLCLbbGp",
+      "pinyin": "d\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "put on, wear"
+    },
+    {
+      "hanzi": "\u5f53",
+      "id": "DiuEP8l8a2",
+      "pinyin": "d\u0101ng",
+      "speechPart": [
+        "v",
+        "prep"
+      ],
+      "definition": "work as; while, when, at a certain time"
+    },
+    {
+      "hanzi": "\u5f53",
+      "id": "DiuEP8l8a2",
+      "pinyin": "d\u0101ng",
+      "speechPart": [
+        "v",
+        "prep"
+      ],
+      "definition": "work as; while, when, at a certain time"
+    },
+    {
+      "hanzi": "\u5200",
+      "id": "Hx5GjRAE0H",
+      "pinyin": "d\u0101o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "knife"
+    },
+    {
+      "hanzi": "\u5012",
+      "id": "7uOIxxMb0b",
+      "pinyin": "d\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pour"
+    },
+    {
+      "hanzi": "\u8d76",
+      "id": "JFPllxOa0j",
+      "pinyin": "g\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rush for, catch up with"
+    },
+    {
+      "hanzi": "\u8d76",
+      "id": "JFPllxOa0j",
+      "pinyin": "g\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rush for, catch up with"
+    },
+    {
+      "hanzi": "\u6562",
+      "id": "c2INFaaSpS",
+      "pinyin": "g\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dare"
+    },
+    {
+      "hanzi": "\u6562",
+      "id": "c2INFaaSpS",
+      "pinyin": "g\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dare"
+    },
+    {
+      "hanzi": "\u5e72",
+      "id": "6hstJ5AKWO",
+      "pinyin": "g\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "do"
+    },
+    {
+      "hanzi": "\u5e72",
+      "id": "6hstJ5AKWO",
+      "pinyin": "g\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "do"
+    },
+    {
+      "hanzi": "\u521a",
+      "id": "owj8KYTthV",
+      "pinyin": "g\u0101ng",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "exactly, just, just now"
+    },
+    {
+      "hanzi": "\u521a",
+      "id": "owj8KYTthV",
+      "pinyin": "g\u0101ng",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "exactly, just, just now"
+    },
+    {
+      "hanzi": "\u6c57",
+      "id": "cnusrsc0lM",
+      "pinyin": "h\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "sweat"
+    },
+    {
+      "hanzi": "\u6c57",
+      "id": "cnusrsc0lM",
+      "pinyin": "h\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "sweat"
+    },
+    {
+      "hanzi": "\u62c9",
+      "id": "UEqsFxMNoW",
+      "pinyin": "l\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pull, drag, play (a string musical instrument)"
+    },
+    {
+      "hanzi": "\u8fa3",
+      "id": "nBL6MtSE6y",
+      "pinyin": "l\u00e0",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "spicy, hot"
+    },
+    {
+      "hanzi": "\u61d2",
+      "id": "2pC9o1wxuF",
+      "pinyin": "l\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "lazy"
+    },
+    {
+      "hanzi": "\u61d2",
+      "id": "2pC9o1wxuF",
+      "pinyin": "l\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "lazy"
+    },
+    {
+      "hanzi": "\u6ee1",
+      "id": "dXeyHBqwGd",
+      "pinyin": "m\u01cen",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "completetly; full, filled"
+    },
+    {
+      "hanzi": "\u6ee1",
+      "id": "dXeyHBqwGd",
+      "pinyin": "m\u01cen",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "completetly; full, filled"
+    },
+    {
+      "hanzi": "\u6bdb",
+      "id": "8s74C1i4po",
+      "pinyin": "m\u00e1o",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for money)"
+    },
+    {
+      "hanzi": "\u53f0",
+      "id": "swGJY1M8gy",
+      "pinyin": "t\u00e1i",
+      "speechPart": [
+        "m",
+        "n"
+      ],
+      "definition": "measure for stage performance, measure for machinery; stage"
+    },
+    {
+      "hanzi": "\u62ac",
+      "id": "QS6UBqU4Ci",
+      "pinyin": "t\u00e1i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lift, carry (two or more persons)"
+    },
+    {
+      "hanzi": "\u8c08",
+      "id": "mKVqBTuQ8O",
+      "pinyin": "t\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "talk, discuss"
+    },
+    {
+      "hanzi": "\u8c08",
+      "id": "mKVqBTuQ8O",
+      "pinyin": "t\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "talk, discuss"
+    },
+    {
+      "hanzi": "\u6c64",
+      "id": "DQDS6fMgmS",
+      "pinyin": "t\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "soup"
+    },
+    {
+      "hanzi": "\u6c64",
+      "id": "DQDS6fMgmS",
+      "pinyin": "t\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "soup"
+    },
+    {
+      "hanzi": "\u7cd6",
+      "id": "f9ARtph2zg",
+      "pinyin": "t\u00e1ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "candy, sugar"
+    },
+    {
+      "hanzi": "\u7cd6",
+      "id": "f9ARtph2zg",
+      "pinyin": "t\u00e1ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "candy, sugar"
+    },
+    {
+      "hanzi": "\u8eba",
+      "id": "LXiwM63xBK",
+      "pinyin": "t\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lie, repose"
+    },
+    {
+      "hanzi": "\u8eba",
+      "id": "LXiwM63xBK",
+      "pinyin": "t\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lie, repose"
+    },
+    {
+      "hanzi": "\u8d9f",
+      "id": "43pqO1N3IV",
+      "pinyin": "t\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for a round trip)"
+    },
+    {
+      "hanzi": "\u8d9f",
+      "id": "43pqO1N3IV",
+      "pinyin": "t\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for a round trip)"
+    },
+    {
+      "hanzi": "\u810f",
+      "id": "eH7t5JEQ4h",
+      "pinyin": "z\u0101ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "dirty, filthy"
+    },
+    {
+      "hanzi": "\u810f",
+      "id": "eH7t5JEQ4h",
+      "pinyin": "z\u0101ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "dirty, filthy"
+    },
+    {
+      "hanzi": "\u7167",
+      "id": "YYnEdCfHVj",
+      "pinyin": "zh\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shine, reflect, photograph"
+    },
+    {
+      "hanzi": "\u54ce",
+      "id": "1aK8Bab6HX",
+      "pinyin": "\u0101i",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "(used to attract attention), hey, oh"
+    },
+    {
+      "hanzi": "\u5509",
+      "id": "ZddV0lZHw4",
+      "pinyin": "\u0101i",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "(a response to a call/an order)"
+    },
+    {
+      "hanzi": "\u5cb8",
+      "id": "Yc114fNeQQ",
+      "pinyin": "\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bank, coast"
+    },
+    {
+      "hanzi": "\u5cb8",
+      "id": "Yc114fNeQQ",
+      "pinyin": "\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bank, coast"
+    },
+    {
+      "hanzi": "\u6697",
+      "id": "9L3i9M5Erz",
+      "pinyin": "\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "dark, dim"
+    },
+    {
+      "hanzi": "\u6697",
+      "id": "9L3i9M5Erz",
+      "pinyin": "\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "dark, dim"
+    },
+    {
+      "hanzi": "\u6446",
+      "id": "DBD5tm0KP3",
+      "pinyin": "b\u01cei",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "put, place, wave"
+    },
+    {
+      "hanzi": "\u8584",
+      "id": "MHdhqcbTrz",
+      "pinyin": "b\u00e1o",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "thin, flimsy"
+    },
+    {
+      "hanzi": "\u8e29",
+      "id": "0qEjjDz5Yq",
+      "pinyin": "c\u01cei",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "step on, tread on"
+    },
+    {
+      "hanzi": "\u63d2",
+      "id": "mh7bXO1qbB",
+      "pinyin": "ch\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "insert"
+    },
+    {
+      "hanzi": "\u62c6",
+      "id": "LXwnNt4Nm2",
+      "pinyin": "ch\u0101i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "tear open, take apart"
+    },
+    {
+      "hanzi": "\u6284",
+      "id": "WGvlSGhHDE",
+      "pinyin": "ch\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "copy, transcribe"
+    },
+    {
+      "hanzi": "\u671d",
+      "id": "qwPbiC7Rz5",
+      "pinyin": "ch\u00e1o",
+      "speechPart": [
+        "prep",
+        "v"
+      ],
+      "definition": "towards; face (to)"
+    },
+    {
+      "hanzi": "\u5435",
+      "id": "yZKCx8kC2U",
+      "pinyin": "ch\u01ceo",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "noisy; quarrel"
+    },
+    {
+      "hanzi": "\u7092",
+      "id": "kPx1o6dfOd",
+      "pinyin": "ch\u01ceo",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "fry"
+    },
+    {
+      "hanzi": "\u5446",
+      "id": "7OGaD46WlN",
+      "pinyin": "d\u0101i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "dull, blank"
+    },
+    {
+      "hanzi": "\u6de1",
+      "id": "F8XkNnKA7M",
+      "pinyin": "d\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "bland (for food/drinks), light (for colour)"
+    },
+    {
+      "hanzi": "\u6de1",
+      "id": "F8XkNnKA7M",
+      "pinyin": "d\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "bland (for food/drinks), light (for colour)"
+    },
+    {
+      "hanzi": "\u6321",
+      "id": "0GOUYRoMz8",
+      "pinyin": "d\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "block, keep off"
+    },
+    {
+      "hanzi": "\u6321",
+      "id": "0GOUYRoMz8",
+      "pinyin": "d\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "block, keep off"
+    },
+    {
+      "hanzi": "\u7ffb",
+      "id": "o9Tzl8wHEO",
+      "pinyin": "f\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "turn over, climb over"
+    },
+    {
+      "hanzi": "\u7ffb",
+      "id": "o9Tzl8wHEO",
+      "pinyin": "f\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "turn over, climb over"
+    },
+    {
+      "hanzi": "\u65b9",
+      "id": "TYegPiAasF",
+      "pinyin": "f\u0101ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "direction, side"
+    },
+    {
+      "hanzi": "\u65b9",
+      "id": "TYegPiAasF",
+      "pinyin": "f\u0101ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "direction, side"
+    },
+    {
+      "hanzi": "\u76d6",
+      "id": "1NNuaHgx00",
+      "pinyin": "g\u00e0i",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "cover; cover (up)"
+    },
+    {
+      "hanzi": "\u641e",
+      "id": "0iKV8F8REK",
+      "pinyin": "g\u01ceo",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "do, make"
+    },
+    {
+      "hanzi": "\u54c8",
+      "id": "femHuMO18o",
+      "pinyin": "h\u0101",
+      "speechPart": [
+        "int",
+        "v"
+      ],
+      "definition": "(expressing triumph or satisfaction); breathe out"
+    },
+    {
+      "hanzi": "\u558a",
+      "id": "B3B5fCnECf",
+      "pinyin": "h\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shout, call"
+    },
+    {
+      "hanzi": "\u558a",
+      "id": "B3B5fCnECf",
+      "pinyin": "h\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shout, call"
+    },
+    {
+      "hanzi": "\u780d",
+      "id": "C88hpwrYQg",
+      "pinyin": "k\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cut"
+    },
+    {
+      "hanzi": "\u780d",
+      "id": "C88hpwrYQg",
+      "pinyin": "k\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cut"
+    },
+    {
+      "hanzi": "\u9760",
+      "id": "f1y11yABj1",
+      "pinyin": "k\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lean on"
+    },
+    {
+      "hanzi": "\u70c2",
+      "id": "53CDKx7Ny7",
+      "pinyin": "l\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "rotten, worn-out, soft"
+    },
+    {
+      "hanzi": "\u70c2",
+      "id": "53CDKx7Ny7",
+      "pinyin": "l\u00e0n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "rotten, worn-out, soft"
+    },
+    {
+      "hanzi": "\u62e6",
+      "id": "1ebEgJ02HB",
+      "pinyin": "l\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "block, bar"
+    },
+    {
+      "hanzi": "\u62e6",
+      "id": "1ebEgJ02HB",
+      "pinyin": "l\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "block, bar"
+    },
+    {
+      "hanzi": "\u9a82",
+      "id": "GL6Twbi5Ry",
+      "pinyin": "m\u00e0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "abuse, swear"
+    },
+    {
+      "hanzi": "\u62cd",
+      "id": "OxOXab3CIR",
+      "pinyin": "p\u0101i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "clap, pat, take (photo or video)"
+    },
+    {
+      "hanzi": "\u6d3e",
+      "id": "KESwsqbx7R",
+      "pinyin": "p\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dispatch, send, assign"
+    },
+    {
+      "hanzi": "\u7ed5",
+      "id": "Nlq2ZhAnu5",
+      "pinyin": "r\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wind around"
+    },
+    {
+      "hanzi": "\u6d12",
+      "id": "vn8K0YPWFF",
+      "pinyin": "s\u01ce",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "spill, spray, sprinkle"
+    },
+    {
+      "hanzi": "\u6740",
+      "id": "JAUgEMTidx",
+      "pinyin": "sh\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "kill"
+    },
+    {
+      "hanzi": "\u50bb",
+      "id": "QV0tFavPhR",
+      "pinyin": "sh\u01ce",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "stupid, foolish"
+    },
+    {
+      "hanzi": "\u6652",
+      "id": "IsFPIMutyV",
+      "pinyin": "sh\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "bask, dry in the sun"
+    },
+    {
+      "hanzi": "\u70eb",
+      "id": "iQkJeBaCyu",
+      "pinyin": "t\u00e0ng",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "boiling hot; scald"
+    },
+    {
+      "hanzi": "\u70eb",
+      "id": "iQkJeBaCyu",
+      "pinyin": "t\u00e0ng",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "boiling hot; scald"
+    },
+    {
+      "hanzi": "\u9003",
+      "id": "mYlCpsVpdw",
+      "pinyin": "t\u00e1o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "escape, run away"
+    },
+    {
+      "hanzi": "\u6843",
+      "id": "5ue1UuvcdW",
+      "pinyin": "t\u00e1o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "peach"
+    },
+    {
+      "hanzi": "\u5957",
+      "id": "3XIHleeHRz",
+      "pinyin": "t\u00e0o",
+      "speechPart": [
+        "n",
+        "v",
+        "m"
+      ],
+      "definition": "cover; slip over; set, suit"
+    },
+    {
+      "hanzi": "\u6458",
+      "id": "WBb8wGGxxF",
+      "pinyin": "zh\u0101i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pick, take off"
+    },
+    {
+      "hanzi": "\u7a84",
+      "id": "je9YEalvfm",
+      "pinyin": "zh\u01cei",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "narrow"
+    },
+    {
+      "hanzi": "\u5360",
+      "id": "G5jiXI4c1R",
+      "pinyin": "zh\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take up (time/space/etc)"
+    },
+    {
+      "hanzi": "\u5360",
+      "id": "G5jiXI4c1R",
+      "pinyin": "zh\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take up (time/space/etc)"
+    },
+    {
+      "hanzi": "\u6da8",
+      "id": "q4BNIyIi9a",
+      "pinyin": "zh\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "(water/prices/etc) rise"
+    },
+    {
+      "hanzi": "\u6da8",
+      "id": "q4BNIyIi9a",
+      "pinyin": "zh\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "(water/prices/etc) rise"
+    },
+    {
+      "hanzi": "\u6328",
+      "id": "wGRGWDR1Ho",
+      "pinyin": "\u00e1i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "suffer, endure, delay"
+    },
+    {
+      "hanzi": "\u71ac",
+      "id": "fDzmVbpJR1",
+      "pinyin": "\u00e1o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cook on a slow fire, endure"
+    },
+    {
+      "hanzi": "\u6252",
+      "id": "Vd6iSKqbWP",
+      "pinyin": "b\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stripp off, dig up, push aside"
+    },
+    {
+      "hanzi": "\u75a4",
+      "id": "gOIjDsel6K",
+      "pinyin": "b\u0101",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "scar"
+    },
+    {
+      "hanzi": "\u63b0",
+      "id": "YAsicoUyjb",
+      "pinyin": "b\u0101i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "break off with hands"
+    },
+    {
+      "hanzi": "\u6591",
+      "id": "PAXOH03eV4",
+      "pinyin": "b\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "spot, speck"
+    },
+    {
+      "hanzi": "\u6591",
+      "id": "PAXOH03eV4",
+      "pinyin": "b\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "spot, speck"
+    },
+    {
+      "hanzi": "\u78c5",
+      "id": "CwmblYi4BM",
+      "pinyin": "b\u00e0ng",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "scales; pound"
+    },
+    {
+      "hanzi": "\u78c5",
+      "id": "CwmblYi4BM",
+      "pinyin": "b\u00e0ng",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "scales; pound"
+    },
+    {
+      "hanzi": "\u8231",
+      "id": "KSe4sYfifr",
+      "pinyin": "c\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "cabin"
+    },
+    {
+      "hanzi": "\u8231",
+      "id": "KSe4sYfifr",
+      "pinyin": "c\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "cabin"
+    },
+    {
+      "hanzi": "\u5c94",
+      "id": "GNxoSD7dSo",
+      "pinyin": "ch\u00e0",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "branch, fork; interrupt the topic (of conversation)"
+    },
+    {
+      "hanzi": "\u6400",
+      "id": "9VTPCkS1pG",
+      "pinyin": "ch\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "help somebody by the arm, support"
+    },
+    {
+      "hanzi": "\u6400",
+      "id": "9VTPCkS1pG",
+      "pinyin": "ch\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "help somebody by the arm, support"
+    },
+    {
+      "hanzi": "\u998b",
+      "id": "565ui9hwpZ",
+      "pinyin": "ch\u00e1n",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "greedy, envious; be gluttonous"
+    },
+    {
+      "hanzi": "\u998b",
+      "id": "565ui9hwpZ",
+      "pinyin": "ch\u00e1n",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "greedy, envious; be gluttonous"
+    },
+    {
+      "hanzi": "\u642d",
+      "id": "a7HeDxrNnT",
+      "pinyin": "d\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "set up, travel by, hang"
+    },
+    {
+      "hanzi": "\u515a",
+      "id": "6dll26Qj5w",
+      "pinyin": "d\u01ceng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "party, society"
+    },
+    {
+      "hanzi": "\u515a",
+      "id": "6dll26Qj5w",
+      "pinyin": "d\u01ceng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "party, society"
+    },
+    {
+      "hanzi": "\u756a",
+      "id": "ffK1CKca7t",
+      "pinyin": "f\u0101n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for actions/deeds)"
+    },
+    {
+      "hanzi": "\u756a",
+      "id": "ffK1CKca7t",
+      "pinyin": "f\u0101n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for actions/deeds)"
+    },
+    {
+      "hanzi": "\u9499",
+      "id": "p8fZ5zEx3D",
+      "pinyin": "g\u00e0i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "calcium"
+    },
+    {
+      "hanzi": "\u55e8",
+      "id": "GYUqUNiA3e",
+      "pinyin": "h\u0101i",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "hi"
+    },
+    {
+      "hanzi": "\u625b",
+      "id": "wMB0y5klEb",
+      "pinyin": "k\u00e1ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "carry on the shoulder, shoulder"
+    },
+    {
+      "hanzi": "\u625b",
+      "id": "wMB0y5klEb",
+      "pinyin": "k\u00e1ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "carry on the shoulder, shoulder"
+    },
+    {
+      "hanzi": "\u5566",
+      "id": "E5ofIGW3gs",
+      "pinyin": "la",
+      "speechPart": [
+        "aux"
+      ],
+      "definition": "la"
+    },
+    {
+      "hanzi": "\u635e",
+      "id": "SzaAgvNdLW",
+      "pinyin": "l\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "scoop up from liquid"
+    },
+    {
+      "hanzi": "\u561b",
+      "id": "FGBmNu690u",
+      "pinyin": "ma",
+      "speechPart": [
+        "aux"
+      ],
+      "definition": "(indicating that something is obvious)"
+    },
+    {
+      "hanzi": "\u8fc8",
+      "id": "5NRWTEA4hx",
+      "pinyin": "m\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "step, stride"
+    },
+    {
+      "hanzi": "\u8db4",
+      "id": "XBGFYXGJTM",
+      "pinyin": "p\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lie prone, bend over"
+    },
+    {
+      "hanzi": "\u7554",
+      "id": "qMxyLyxAmz",
+      "pinyin": "p\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "side, bank"
+    },
+    {
+      "hanzi": "\u7554",
+      "id": "qMxyLyxAmz",
+      "pinyin": "p\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "side, bank"
+    },
+    {
+      "hanzi": "\u67d3",
+      "id": "Cn1jFOjJaQ",
+      "pinyin": "r\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dye, catch, acquire, contaminate"
+    },
+    {
+      "hanzi": "\u67d3",
+      "id": "Cn1jFOjJaQ",
+      "pinyin": "r\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dye, catch, acquire, contaminate"
+    },
+    {
+      "hanzi": "\u56b7",
+      "id": "D2TH0lUhi8",
+      "pinyin": "r\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shout, yell"
+    },
+    {
+      "hanzi": "\u56b7",
+      "id": "D2TH0lUhi8",
+      "pinyin": "r\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shout, yell"
+    },
+    {
+      "hanzi": "\u5565",
+      "id": "cNHD6b6BsQ",
+      "pinyin": "sh\u00e1",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "what"
+    },
+    {
+      "hanzi": "\u634e",
+      "id": "5xkBa4Lwei",
+      "pinyin": "sh\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take something for somebody, bring something to somebody"
+    },
+    {
+      "hanzi": "\u68a2",
+      "id": "lxSecjyBFk",
+      "pinyin": "sh\u0101o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "thin end of a twig"
+    },
+    {
+      "hanzi": "\u54e8",
+      "id": "8k4bDw9Uoz",
+      "pinyin": "sh\u00e0o",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "sentry post, post, whistle; patrol"
+    },
+    {
+      "hanzi": "\u584c",
+      "id": "3GPOE4guCP",
+      "pinyin": "t\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "collapse, fall down"
+    },
+    {
+      "hanzi": "\u5854",
+      "id": "eIyptjzd4x",
+      "pinyin": "t\u01ce",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "pagoda, tower"
+    },
+    {
+      "hanzi": "\u644a",
+      "id": "iscQze3I17",
+      "pinyin": "t\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "vendor stand; share, fry batter in a thin layer"
+    },
+    {
+      "hanzi": "\u644a",
+      "id": "iscQze3I17",
+      "pinyin": "t\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "vendor stand; share, fry batter in a thin layer"
+    },
+    {
+      "hanzi": "\u638f",
+      "id": "lcjbuwpdkp",
+      "pinyin": "t\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take out, dig"
+    },
+    {
+      "hanzi": "\u7838",
+      "id": "aF5LzX2HtN",
+      "pinyin": "z\u00e1",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pound, break"
+    },
+    {
+      "hanzi": "\u548b",
+      "id": "lzZiNOIEUY",
+      "pinyin": "z\u01ce",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "how, why"
+    },
+    {
+      "hanzi": "\u5bb0",
+      "id": "ytZbqGgIKb",
+      "pinyin": "z\u01cei",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "slaughter, soak"
+    },
+    {
+      "hanzi": "\u6512",
+      "id": "pfZIWP8SSh",
+      "pinyin": "z\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "accumulate, amass, save"
+    },
+    {
+      "hanzi": "\u6512",
+      "id": "pfZIWP8SSh",
+      "pinyin": "z\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "accumulate, amass, save"
+    },
+    {
+      "hanzi": "\u624e",
+      "id": "g6tgtdXEi4",
+      "pinyin": "zh\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "prick, plunge into"
+    },
+    {
+      "hanzi": "\u6e23",
+      "id": "SEZzT6yGCp",
+      "pinyin": "zh\u0101",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "dregs, residue, broken bits"
+    },
+    {
+      "hanzi": "\u7728",
+      "id": "lSgqX8CFP0",
+      "pinyin": "zh\u01ce",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "blink"
+    }
+  ],
+  "second": [
+    {
+      "hanzi": "\u672c",
+      "id": "4BAzsvn9av",
+      "pinyin": "b\u011bn",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "m. (for books)"
+    },
+    {
+      "hanzi": "\u672c",
+      "id": "4BAzsvn9av",
+      "pinyin": "b\u011bn",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "m. (for books)"
+    },
+    {
+      "hanzi": "\u7684",
+      "id": "xuBBiAdD1w",
+      "pinyin": "de",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "possessive particle"
+    },
+    {
+      "hanzi": "\u4e8c",
+      "id": "WvZSXpLuxl",
+      "pinyin": "\u00e8r",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "two"
+    },
+    {
+      "hanzi": "\u4e8c",
+      "id": "WvZSXpLuxl",
+      "pinyin": "\u00e8r",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "two"
+    },
+    {
+      "hanzi": "\u4e2a",
+      "id": "uuIVvi9nlf",
+      "pinyin": "g\u00e8",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used before a noun which does not have a fixed measure word of its own)"
+    },
+    {
+      "hanzi": "\u559d",
+      "id": "C8gPat4cHi",
+      "pinyin": "h\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "drink"
+    },
+    {
+      "hanzi": "\u548c",
+      "id": "fhCe0tgdM6",
+      "pinyin": "h\u00e9",
+      "speechPart": [
+        "conj",
+        "prep"
+      ],
+      "definition": "and; to, with"
+    },
+    {
+      "hanzi": "\u5f88",
+      "id": "GmtmA9WFcD",
+      "pinyin": "h\u011bn",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "very"
+    },
+    {
+      "hanzi": "\u5f88",
+      "id": "GmtmA9WFcD",
+      "pinyin": "h\u011bn",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "very"
+    },
+    {
+      "hanzi": "\u4e86",
+      "id": "0jnVrhJQRZ",
+      "pinyin": "le",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "past tense marker"
+    },
+    {
+      "hanzi": "\u51b7",
+      "id": "0TvOd8qsaX",
+      "pinyin": "l\u011bng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "cold"
+    },
+    {
+      "hanzi": "\u51b7",
+      "id": "0TvOd8qsaX",
+      "pinyin": "l\u011bng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "cold"
+    },
+    {
+      "hanzi": "\u5462",
+      "id": "VH3M4vwC3o",
+      "pinyin": "ne",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(question particule)"
+    },
+    {
+      "hanzi": "\u80fd",
+      "id": "IYE3U7wkZw",
+      "pinyin": "n\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "can, be able to"
+    },
+    {
+      "hanzi": "\u80fd",
+      "id": "IYE3U7wkZw",
+      "pinyin": "n\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "can, be able to"
+    },
+    {
+      "hanzi": "\u70ed",
+      "id": "nDGduTd1GN",
+      "pinyin": "r\u00e8",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "hot"
+    },
+    {
+      "hanzi": "\u4eba",
+      "id": "SA6coL2Fll",
+      "pinyin": "r\u00e9n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "person"
+    },
+    {
+      "hanzi": "\u4eba",
+      "id": "SA6coL2Fll",
+      "pinyin": "r\u00e9n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "person"
+    },
+    {
+      "hanzi": "\u8c01",
+      "id": "DhXcy87uau",
+      "pinyin": "sh\u00e9i",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "who"
+    },
+    {
+      "hanzi": "\u8fd9",
+      "id": "avK3v3Jg0r",
+      "pinyin": "zh\u00e8",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "this"
+    },
+    {
+      "hanzi": "\u5f97",
+      "id": "9ahL9vSJVW",
+      "pinyin": "de",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(complement of result or degree)"
+    },
+    {
+      "hanzi": "\u7ed9",
+      "id": "nb3cT0Cy77",
+      "pinyin": "g\u011bi",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "give"
+    },
+    {
+      "hanzi": "\u9ed1",
+      "id": "sCdeWOAM47",
+      "pinyin": "h\u0113i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "black"
+    },
+    {
+      "hanzi": "\u8bfe",
+      "id": "0p7P7v6pUw",
+      "pinyin": "k\u00e8",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "class, lesson"
+    },
+    {
+      "hanzi": "\u7d2f",
+      "id": "yKjIikgGPp",
+      "pinyin": "l\u00e8i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "tired"
+    },
+    {
+      "hanzi": "\u6bcf",
+      "id": "q4QAsqux0a",
+      "pinyin": "m\u011bi",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "every, each"
+    },
+    {
+      "hanzi": "\u95e8",
+      "id": "6s9vSEu2aj",
+      "pinyin": "m\u00e9n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "door"
+    },
+    {
+      "hanzi": "\u95e8",
+      "id": "6s9vSEu2aj",
+      "pinyin": "m\u00e9n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "door"
+    },
+    {
+      "hanzi": "\u7740",
+      "id": "Kmzk7KAPTe",
+      "pinyin": "zhe",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(used to indicate a state)"
+    },
+    {
+      "hanzi": "\u771f",
+      "id": "llfc0NAZqz",
+      "pinyin": "zh\u0113n",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "really, truly"
+    },
+    {
+      "hanzi": "\u771f",
+      "id": "llfc0NAZqz",
+      "pinyin": "zh\u0113n",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "really, truly"
+    },
+    {
+      "hanzi": "\u88ab",
+      "id": "33CP9X7UAw",
+      "pinyin": "b\u00e8i",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "by (indicates passive-voice clauses)"
+    },
+    {
+      "hanzi": "\u5c42",
+      "id": "xU43AQ5CIo",
+      "pinyin": "c\u00e9ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "floor"
+    },
+    {
+      "hanzi": "\u5c42",
+      "id": "xU43AQ5CIo",
+      "pinyin": "c\u00e9ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "floor"
+    },
+    {
+      "hanzi": "\u5730",
+      "id": "zCidqnigjK",
+      "pinyin": "de",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(adverbial particle)"
+    },
+    {
+      "hanzi": "\u706f",
+      "id": "owFYRqWKAJ",
+      "pinyin": "d\u0113ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "light"
+    },
+    {
+      "hanzi": "\u706f",
+      "id": "owFYRqWKAJ",
+      "pinyin": "d\u0113ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "light"
+    },
+    {
+      "hanzi": "\u997f",
+      "id": "hg5KAx7kmJ",
+      "pinyin": "\u00e8",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "hungry"
+    },
+    {
+      "hanzi": "\u5206",
+      "id": "7Lo7HhnX2u",
+      "pinyin": "f\u0113n",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "minute, cent, point; divide, separate"
+    },
+    {
+      "hanzi": "\u5206",
+      "id": "7Lo7HhnX2u",
+      "pinyin": "f\u0113n",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "minute, cent, point; divide, separate"
+    },
+    {
+      "hanzi": "\u8ddf",
+      "id": "W1mp1HqddX",
+      "pinyin": "g\u0113n",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "with"
+    },
+    {
+      "hanzi": "\u8ddf",
+      "id": "W1mp1HqddX",
+      "pinyin": "g\u0113n",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "with"
+    },
+    {
+      "hanzi": "\u66f4",
+      "id": "9apxiDxJPn",
+      "pinyin": "g\u00e8ng",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "more"
+    },
+    {
+      "hanzi": "\u66f4",
+      "id": "9apxiDxJPn",
+      "pinyin": "g\u00e8ng",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "more"
+    },
+    {
+      "hanzi": "\u6e34",
+      "id": "CaU98TpWXT",
+      "pinyin": "k\u011b",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "thirsty"
+    },
+    {
+      "hanzi": "\u523b",
+      "id": "kNKBzXH1mN",
+      "pinyin": "k\u00e8",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "quarter"
+    },
+    {
+      "hanzi": "\u75bc",
+      "id": "cAHQp7ocqB",
+      "pinyin": "t\u00e9ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "ache, pain"
+    },
+    {
+      "hanzi": "\u75bc",
+      "id": "cAHQp7ocqB",
+      "pinyin": "t\u00e9ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "ache, pain"
+    },
+    {
+      "hanzi": "\u7b49",
+      "id": "IuyFa6bddG",
+      "pinyin": "d\u011bng",
+      "speechPart": [
+        "aux",
+        "n",
+        "v"
+      ],
+      "definition": "and so on; class, grade, rank; wait"
+    },
+    {
+      "hanzi": "\u7b49",
+      "id": "IuyFa6bddG",
+      "pinyin": "d\u011bng",
+      "speechPart": [
+        "aux",
+        "n",
+        "v"
+      ],
+      "definition": "and so on; class, grade, rank; wait"
+    },
+    {
+      "hanzi": "\u500d",
+      "id": "T0SZFaNhk6",
+      "pinyin": "b\u00e8i",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "fold"
+    },
+    {
+      "hanzi": "\u7b28",
+      "id": "IVdntWs3q8",
+      "pinyin": "b\u00e8n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "stupid, foolish, dull"
+    },
+    {
+      "hanzi": "\u7b28",
+      "id": "IVdntWs3q8",
+      "pinyin": "b\u00e8n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "stupid, foolish, dull"
+    },
+    {
+      "hanzi": "\u5f97",
+      "id": "wNDA9eBK0C",
+      "pinyin": "d\u011bi",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "must, have to"
+    },
+    {
+      "hanzi": "\u800c",
+      "id": "anO39fN4nD",
+      "pinyin": "\u00e9r",
+      "speechPart": [
+        "conj"
+      ],
+      "definition": "but, and"
+    },
+    {
+      "hanzi": "\u800c",
+      "id": "anO39fN4nD",
+      "pinyin": "\u00e9r",
+      "speechPart": [
+        "conj"
+      ],
+      "definition": "but, and"
+    },
+    {
+      "hanzi": "\u4efd",
+      "id": "QGzdWnwF20",
+      "pinyin": "f\u00e8n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "portion, part"
+    },
+    {
+      "hanzi": "\u4efd",
+      "id": "QGzdWnwF20",
+      "pinyin": "f\u00e8n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "portion, part"
+    },
+    {
+      "hanzi": "\u5404",
+      "id": "WAf2PYZdY8",
+      "pinyin": "g\u00e8",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "every"
+    },
+    {
+      "hanzi": "\u68f5",
+      "id": "5IJRFKBerr",
+      "pinyin": "k\u0113",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for plants)"
+    },
+    {
+      "hanzi": "\u68a6",
+      "id": "PkBqrzCah7",
+      "pinyin": "m\u00e8ng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "dream"
+    },
+    {
+      "hanzi": "\u68a6",
+      "id": "PkBqrzCah7",
+      "pinyin": "m\u00e8ng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "dream"
+    },
+    {
+      "hanzi": "\u5185",
+      "id": "ykijrW5N3j",
+      "pinyin": "n\u00e8i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "inside"
+    },
+    {
+      "hanzi": "\u966a",
+      "id": "axePDWs5i5",
+      "pinyin": "p\u00e9i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "accompany"
+    },
+    {
+      "hanzi": "\u6254",
+      "id": "4lt1eL5nQS",
+      "pinyin": "r\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "throw, throw away"
+    },
+    {
+      "hanzi": "\u6254",
+      "id": "4lt1eL5nQS",
+      "pinyin": "r\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "throw, throw away"
+    },
+    {
+      "hanzi": "\u6df1",
+      "id": "bqJYfC6I1J",
+      "pinyin": "sh\u0113n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "deep, dark (color)"
+    },
+    {
+      "hanzi": "\u6df1",
+      "id": "bqJYfC6I1J",
+      "pinyin": "sh\u0113n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "deep, dark (color)"
+    },
+    {
+      "hanzi": "\u7701",
+      "id": "oC5BTWGVpL",
+      "pinyin": "sh\u011bng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "province; save, omit"
+    },
+    {
+      "hanzi": "\u7701",
+      "id": "oC5BTWGVpL",
+      "pinyin": "sh\u011bng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "province; save, omit"
+    },
+    {
+      "hanzi": "\u5269",
+      "id": "rNaDMjKe8T",
+      "pinyin": "sh\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "remain, be left over"
+    },
+    {
+      "hanzi": "\u5269",
+      "id": "rNaDMjKe8T",
+      "pinyin": "sh\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "remain, be left over"
+    },
+    {
+      "hanzi": "\u80cc",
+      "id": "qLxleaA1Tx",
+      "pinyin": "b\u0113i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "carry on the back"
+    },
+    {
+      "hanzi": "\u518c",
+      "id": "a9fdzCwWMT",
+      "pinyin": "c\u00e8",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "volume"
+    },
+    {
+      "hanzi": "\u8d81",
+      "id": "dpE0m1j1uj",
+      "pinyin": "ch\u00e8n",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "taking advantage of"
+    },
+    {
+      "hanzi": "\u8d81",
+      "id": "dpE0m1j1uj",
+      "pinyin": "ch\u00e8n",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "taking advantage of"
+    },
+    {
+      "hanzi": "\u79f0",
+      "id": "ajB5nXFgNA",
+      "pinyin": "ch\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "call, weigh"
+    },
+    {
+      "hanzi": "\u79f0",
+      "id": "ajB5nXFgNA",
+      "pinyin": "ch\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "call, weigh"
+    },
+    {
+      "hanzi": "\u975e",
+      "id": "ZZSyd3FsA7",
+      "pinyin": "f\u0113i",
+      "speechPart": [
+        "adj",
+        "v",
+        "adv"
+      ],
+      "definition": "wrong; be not; have got to, simply must"
+    },
+    {
+      "hanzi": "\u6839",
+      "id": "N7dsSAIDyO",
+      "pinyin": "g\u0113n",
+      "speechPart": [
+        "m",
+        "n"
+      ],
+      "definition": "(for long/thin objects); root"
+    },
+    {
+      "hanzi": "\u6839",
+      "id": "N7dsSAIDyO",
+      "pinyin": "g\u0113n",
+      "speechPart": [
+        "m",
+        "n"
+      ],
+      "definition": "(for long/thin objects); root"
+    },
+    {
+      "hanzi": "\u6068",
+      "id": "hA8JSGQEUA",
+      "pinyin": "h\u00e8n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hate, resent"
+    },
+    {
+      "hanzi": "\u6068",
+      "id": "hA8JSGQEUA",
+      "pinyin": "h\u00e8n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hate, resent"
+    },
+    {
+      "hanzi": "\u9897",
+      "id": "HZ5bqu61rR",
+      "pinyin": "k\u0113",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for things small and roundish)"
+    },
+    {
+      "hanzi": "\u514b",
+      "id": "Sy7R9Nh3Hg",
+      "pinyin": "k\u00e8",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "gram"
+    },
+    {
+      "hanzi": "\u96f7",
+      "id": "EyDn5IAGgB",
+      "pinyin": "l\u00e9i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "thunder"
+    },
+    {
+      "hanzi": "\u5ae9",
+      "id": "vArQ2wIUHp",
+      "pinyin": "n\u00e8n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "delicate, tender"
+    },
+    {
+      "hanzi": "\u5ae9",
+      "id": "vArQ2wIUHp",
+      "pinyin": "n\u00e8n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "delicate, tender"
+    },
+    {
+      "hanzi": "\u55ef",
+      "id": "trRo69EwLD",
+      "pinyin": "\u00e8n",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "(expressing agreement)"
+    },
+    {
+      "hanzi": "\u55ef",
+      "id": "trRo69EwLD",
+      "pinyin": "\u00e8n",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "(expressing agreement)"
+    },
+    {
+      "hanzi": "\u78b0",
+      "id": "IGqbJIZ4rC",
+      "pinyin": "p\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "run into, meet"
+    },
+    {
+      "hanzi": "\u78b0",
+      "id": "IGqbJIZ4rC",
+      "pinyin": "p\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "run into, meet"
+    },
+    {
+      "hanzi": "\u76c6",
+      "id": "VCfmXLltJ3",
+      "pinyin": "p\u00e9n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "basin, tub, pot"
+    },
+    {
+      "hanzi": "\u76c6",
+      "id": "VCfmXLltJ3",
+      "pinyin": "p\u00e9n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "basin, tub, pot"
+    },
+    {
+      "hanzi": "\u86c7",
+      "id": "zQz9qqyRcv",
+      "pinyin": "sh\u00e9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "snake"
+    },
+    {
+      "hanzi": "\u4f38",
+      "id": "L1jqnKbQEw",
+      "pinyin": "sh\u0113n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stretch"
+    },
+    {
+      "hanzi": "\u4f38",
+      "id": "L1jqnKbQEw",
+      "pinyin": "sh\u0113n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stretch"
+    },
+    {
+      "hanzi": "\u5347",
+      "id": "4c3R8iaKMa",
+      "pinyin": "sh\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rise, ascend, promote"
+    },
+    {
+      "hanzi": "\u5347",
+      "id": "4c3R8iaKMa",
+      "pinyin": "sh\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rise, ascend, promote"
+    },
+    {
+      "hanzi": "\u5219",
+      "id": "OCEIicf4fM",
+      "pinyin": "z\u00e9",
+      "speechPart": [
+        "conj"
+      ],
+      "definition": "(to indicate cause and effect/condition/contrast)"
+    },
+    {
+      "hanzi": "\u9635",
+      "id": "oDf8YsGiLT",
+      "pinyin": "zh\u00e8n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "short period, spell"
+    },
+    {
+      "hanzi": "\u9635",
+      "id": "oDf8YsGiLT",
+      "pinyin": "zh\u00e8n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "short period, spell"
+    },
+    {
+      "hanzi": "\u7741",
+      "id": "cxBw3GtNJm",
+      "pinyin": "zh\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "open"
+    },
+    {
+      "hanzi": "\u7741",
+      "id": "cxBw3GtNJm",
+      "pinyin": "zh\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "open"
+    },
+    {
+      "hanzi": "\u6b63",
+      "id": "5SvV1xL2JB",
+      "pinyin": "zh\u00e8ng",
+      "speechPart": [
+        "adj",
+        "adv"
+      ],
+      "definition": "straight, correct; just happening"
+    },
+    {
+      "hanzi": "\u6b63",
+      "id": "5SvV1xL2JB",
+      "pinyin": "zh\u00e8ng",
+      "speechPart": [
+        "adj",
+        "adv"
+      ],
+      "definition": "straight, correct; just happening"
+    },
+    {
+      "hanzi": "\u6323",
+      "id": "3ZhiabQncj",
+      "pinyin": "zh\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "earn, make"
+    },
+    {
+      "hanzi": "\u6323",
+      "id": "3ZhiabQncj",
+      "pinyin": "zh\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "earn, make"
+    },
+    {
+      "hanzi": "\u752d",
+      "id": "xu1gqn7cVf",
+      "pinyin": "b\u00e9ng",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "don't, needn't"
+    },
+    {
+      "hanzi": "\u752d",
+      "id": "xu1gqn7cVf",
+      "pinyin": "b\u00e9ng",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "don't, needn't"
+    },
+    {
+      "hanzi": "\u8e66",
+      "id": "pbqRX3XWmF",
+      "pinyin": "b\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "jump, leap, spring"
+    },
+    {
+      "hanzi": "\u8e66",
+      "id": "pbqRX3XWmF",
+      "pinyin": "b\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "jump, leap, spring"
+    },
+    {
+      "hanzi": "\u4e58",
+      "id": "IA07j3mPfX",
+      "pinyin": "ch\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "ride, take"
+    },
+    {
+      "hanzi": "\u4e58",
+      "id": "IA07j3mPfX",
+      "pinyin": "ch\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "ride, take"
+    },
+    {
+      "hanzi": "\u76db",
+      "id": "9yHsz1nqNJ",
+      "pinyin": "ch\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "fill"
+    },
+    {
+      "hanzi": "\u76db",
+      "id": "9yHsz1nqNJ",
+      "pinyin": "ch\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "fill"
+    },
+    {
+      "hanzi": "\u6a59",
+      "id": "0yv8CdQPDK",
+      "pinyin": "ch\u00e9ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "orange"
+    },
+    {
+      "hanzi": "\u6a59",
+      "id": "0yv8CdQPDK",
+      "pinyin": "ch\u00e9ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "orange"
+    },
+    {
+      "hanzi": "\u79e4",
+      "id": "mgZcWuUj6y",
+      "pinyin": "ch\u00e8ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "scale, steelyard"
+    },
+    {
+      "hanzi": "\u79e4",
+      "id": "mgZcWuUj6y",
+      "pinyin": "ch\u00e8ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "scale, steelyard"
+    },
+    {
+      "hanzi": "\u8e6c",
+      "id": "dJGuECgrqq",
+      "pinyin": "d\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "push with the foot, step on"
+    },
+    {
+      "hanzi": "\u8e6c",
+      "id": "dJGuECgrqq",
+      "pinyin": "d\u0113ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "push with the foot, step on"
+    },
+    {
+      "hanzi": "\u77aa",
+      "id": "dSgmKHEx6H",
+      "pinyin": "d\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stare at"
+    },
+    {
+      "hanzi": "\u77aa",
+      "id": "dSgmKHEx6H",
+      "pinyin": "d\u00e8ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stare at"
+    },
+    {
+      "hanzi": "\u80ba",
+      "id": "FGUwIcAr7h",
+      "pinyin": "f\u00e8i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "lung"
+    },
+    {
+      "hanzi": "\u9022",
+      "id": "MDxjhGbjxX",
+      "pinyin": "f\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "meet, come upon"
+    },
+    {
+      "hanzi": "\u9022",
+      "id": "MDxjhGbjxX",
+      "pinyin": "f\u00e9ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "meet, come upon"
+    },
+    {
+      "hanzi": "\u6401",
+      "id": "MSgrJrtgz8",
+      "pinyin": "g\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "place, add, put aside"
+    },
+    {
+      "hanzi": "\u5272",
+      "id": "FD5sfyzZVU",
+      "pinyin": "g\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cut, separate"
+    },
+    {
+      "hanzi": "\u5475",
+      "id": "sTcdJItPqp",
+      "pinyin": "h\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "scold, breathe out"
+    },
+    {
+      "hanzi": "\u563f",
+      "id": "OsGA5t1eRv",
+      "pinyin": "h\u0113i",
+      "speechPart": [
+        "int",
+        "onom"
+      ],
+      "definition": "hey; ha ha"
+    },
+    {
+      "hanzi": "\u54fc",
+      "id": "vOETmwfUzR",
+      "pinyin": "h\u0113ng",
+      "speechPart": [
+        "v",
+        "onom"
+      ],
+      "definition": "hum, snort; groan"
+    },
+    {
+      "hanzi": "\u54fc",
+      "id": "vOETmwfUzR",
+      "pinyin": "h\u0113ng",
+      "speechPart": [
+        "v",
+        "onom"
+      ],
+      "definition": "hum, snort; groan"
+    },
+    {
+      "hanzi": "\u6a2a",
+      "id": "KUwPy622r7",
+      "pinyin": "h\u00e9ng",
+      "speechPart": [
+        "v",
+        "adj",
+        "n"
+      ],
+      "definition": "locate crosswise; horizontal; horizontal stroke"
+    },
+    {
+      "hanzi": "\u6a2a",
+      "id": "KUwPy622r7",
+      "pinyin": "h\u00e9ng",
+      "speechPart": [
+        "v",
+        "adj",
+        "n"
+      ],
+      "definition": "locate crosswise; horizontal; horizontal stroke"
+    },
+    {
+      "hanzi": "\u78d5",
+      "id": "Lz0TuBAjtE",
+      "pinyin": "k\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "knock"
+    },
+    {
+      "hanzi": "\u5543",
+      "id": "2WOcpTZ5QE",
+      "pinyin": "k\u011bn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "gnaw, nibble, bite"
+    },
+    {
+      "hanzi": "\u5543",
+      "id": "2WOcpTZ5QE",
+      "pinyin": "k\u011bn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "gnaw, nibble, bite"
+    },
+    {
+      "hanzi": "\u5751",
+      "id": "ARpHwRvFe8",
+      "pinyin": "k\u0113ng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "pit; entrap"
+    },
+    {
+      "hanzi": "\u5751",
+      "id": "ARpHwRvFe8",
+      "pinyin": "k\u0113ng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "pit; entrap"
+    },
+    {
+      "hanzi": "\u6123",
+      "id": "LgWjAKumos",
+      "pinyin": "l\u00e8ng",
+      "speechPart": [
+        "v",
+        "adj",
+        "adv"
+      ],
+      "definition": "be stupefied; rash; wilfully"
+    },
+    {
+      "hanzi": "\u6123",
+      "id": "LgWjAKumos",
+      "pinyin": "l\u00e8ng",
+      "speechPart": [
+        "v",
+        "adj",
+        "adv"
+      ],
+      "definition": "be stupefied; rash; wilfully"
+    },
+    {
+      "hanzi": "\u679a",
+      "id": "eE86UY4ZZj",
+      "pinyin": "m\u00e9i",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used in connection with coins/stamps/bombs)"
+    },
+    {
+      "hanzi": "\u6367",
+      "id": "aoSExccxKu",
+      "pinyin": "p\u011bng",
+      "speechPart": [
+        "v",
+        "m"
+      ],
+      "definition": "hold something in both hands, boost; a double handful"
+    },
+    {
+      "hanzi": "\u6367",
+      "id": "aoSExccxKu",
+      "pinyin": "p\u011bng",
+      "speechPart": [
+        "v",
+        "m"
+      ],
+      "definition": "hold something in both hands, boost; a double handful"
+    },
+    {
+      "hanzi": "\u8d3c",
+      "id": "TyOD8oshye",
+      "pinyin": "z\u00e9i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "thief"
+    },
+    {
+      "hanzi": "\u6298",
+      "id": "JKNUR99UMF",
+      "pinyin": "zh\u00e9",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "discount; break"
+    }
+  ],
+  "six": [
+    {
+      "hanzi": "\u4e0d",
+      "id": "IJzmo8ap0K",
+      "pinyin": "b\u00f9",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "not"
+    },
+    {
+      "hanzi": "\u8bfb",
+      "id": "YY2DWGo203",
+      "pinyin": "d\u00fa",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "read"
+    },
+    {
+      "hanzi": "\u591a",
+      "id": "TcMqg8JQcK",
+      "pinyin": "du\u014d",
+      "speechPart": [
+        "adj",
+        "pron"
+      ],
+      "definition": "many, much; how, what"
+    },
+    {
+      "hanzi": "\u56de",
+      "id": "krwfujrHDC",
+      "pinyin": "hu\u00ed",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "return, go back"
+    },
+    {
+      "hanzi": "\u4f1a",
+      "id": "WzOkFgmFND",
+      "pinyin": "hu\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "can"
+    },
+    {
+      "hanzi": "\u5757",
+      "id": "I3Eh4KsSfW",
+      "pinyin": "ku\u00e0i",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "piece"
+    },
+    {
+      "hanzi": "\u53bb",
+      "id": "XbuciCjwHW",
+      "pinyin": "q\u00f9",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "go"
+    },
+    {
+      "hanzi": "\u4e66",
+      "id": "uMaSgXa4cT",
+      "pinyin": "sh\u016b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "book"
+    },
+    {
+      "hanzi": "\u6c34",
+      "id": "oq4gQUZpvP",
+      "pinyin": "shu\u01d0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "water"
+    },
+    {
+      "hanzi": "\u8bf4",
+      "id": "8xjaQoClI3",
+      "pinyin": "shu\u014d",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "speak, talk, say"
+    },
+    {
+      "hanzi": "\u5c81",
+      "id": "pU5PFXR8r2",
+      "pinyin": "su\u00ec",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "year (of age)"
+    },
+    {
+      "hanzi": "\u5582",
+      "id": "eh5PRLDl7s",
+      "pinyin": "w\u00e8i",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "hello"
+    },
+    {
+      "hanzi": "\u6211",
+      "id": "vAn3NI777r",
+      "pinyin": "w\u01d2",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "I, me"
+    },
+    {
+      "hanzi": "\u4e94",
+      "id": "1l260vVTMl",
+      "pinyin": "w\u01d4",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "five"
+    },
+    {
+      "hanzi": "\u4e94",
+      "id": "1l260vVTMl",
+      "pinyin": "w\u01d4",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "five"
+    },
+    {
+      "hanzi": "\u4e94",
+      "id": "1l260vVTMl",
+      "pinyin": "w\u01d4",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "five"
+    },
+    {
+      "hanzi": "\u4f4f",
+      "id": "iugil8EWyP",
+      "pinyin": "zh\u00f9",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "live"
+    },
+    {
+      "hanzi": "\u5750",
+      "id": "dxuRhbNrwH",
+      "pinyin": "zu\u00f2",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "sit"
+    },
+    {
+      "hanzi": "\u505a",
+      "id": "6k2dGLgFHl",
+      "pinyin": "zu\u00f2",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "do"
+    },
+    {
+      "hanzi": "\u51fa",
+      "id": "vQ6uoVNgt7",
+      "pinyin": "ch\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "go out"
+    },
+    {
+      "hanzi": "\u7a7f",
+      "id": "bAWNZQwuGY",
+      "pinyin": "chu\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wear"
+    },
+    {
+      "hanzi": "\u7a7f",
+      "id": "bAWNZQwuGY",
+      "pinyin": "chu\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wear"
+    },
+    {
+      "hanzi": "\u9519",
+      "id": "0vSZ4ZVNt3",
+      "pinyin": "cu\u00f2",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "wrong"
+    },
+    {
+      "hanzi": "\u5bf9",
+      "id": "VHXwprC0EI",
+      "pinyin": "du\u00ec",
+      "speechPart": [
+        "prep",
+        "adj"
+      ],
+      "definition": "to, towards; right, correct"
+    },
+    {
+      "hanzi": "\u8d35",
+      "id": "ADI130siMr",
+      "pinyin": "gu\u00ec",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "expensive"
+    },
+    {
+      "hanzi": "\u8fc7",
+      "id": "T6lixBUJTW",
+      "pinyin": "guo",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(indication of past experience)"
+    },
+    {
+      "hanzi": "\u5feb",
+      "id": "VvW4qgEBEx",
+      "pinyin": "ku\u00e0i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "quick, fast"
+    },
+    {
+      "hanzi": "\u8def",
+      "id": "Q2V2SixpGw",
+      "pinyin": "l\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "road"
+    },
+    {
+      "hanzi": "\u5916",
+      "id": "rNBHl981aY",
+      "pinyin": "w\u00e0i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "outside, outer"
+    },
+    {
+      "hanzi": "\u5b8c",
+      "id": "oPJ1GE4rvc",
+      "pinyin": "w\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "finish"
+    },
+    {
+      "hanzi": "\u5b8c",
+      "id": "oPJ1GE4rvc",
+      "pinyin": "w\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "finish"
+    },
+    {
+      "hanzi": "\u73a9",
+      "id": "Y6ysX7IEgA",
+      "pinyin": "w\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "play"
+    },
+    {
+      "hanzi": "\u73a9",
+      "id": "Y6ysX7IEgA",
+      "pinyin": "w\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "play"
+    },
+    {
+      "hanzi": "\u5f80",
+      "id": "43qPHdZLmx",
+      "pinyin": "w\u01ceng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "toward, to"
+    },
+    {
+      "hanzi": "\u5f80",
+      "id": "43qPHdZLmx",
+      "pinyin": "w\u01ceng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "toward, to"
+    },
+    {
+      "hanzi": "\u95ee",
+      "id": "dWb4XMrZgn",
+      "pinyin": "w\u00e8n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "ask"
+    },
+    {
+      "hanzi": "\u6700",
+      "id": "p6zi22jFzq",
+      "pinyin": "zu\u00ec",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "the most, to the greatest extent"
+    },
+    {
+      "hanzi": "\u8239",
+      "id": "QXi9ylvcYV",
+      "pinyin": "chu\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "boat"
+    },
+    {
+      "hanzi": "\u8239",
+      "id": "QXi9ylvcYV",
+      "pinyin": "chu\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "boat"
+    },
+    {
+      "hanzi": "\u6625",
+      "id": "iPjpoBIitl",
+      "pinyin": "ch\u016bn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "spring"
+    },
+    {
+      "hanzi": "\u6625",
+      "id": "iPjpoBIitl",
+      "pinyin": "ch\u016bn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "spring"
+    },
+    {
+      "hanzi": "\u77ed",
+      "id": "SbaIExDLCV",
+      "pinyin": "du\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "short"
+    },
+    {
+      "hanzi": "\u77ed",
+      "id": "SbaIExDLCV",
+      "pinyin": "du\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "short"
+    },
+    {
+      "hanzi": "\u6bb5",
+      "id": "GWsGhQY6nc",
+      "pinyin": "du\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "paragraph"
+    },
+    {
+      "hanzi": "\u6bb5",
+      "id": "GWsGhQY6nc",
+      "pinyin": "du\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "paragraph"
+    },
+    {
+      "hanzi": "\u5173",
+      "id": "tyz5FsnvdY",
+      "pinyin": "gu\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "close, turn off"
+    },
+    {
+      "hanzi": "\u5173",
+      "id": "tyz5FsnvdY",
+      "pinyin": "gu\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "close, turn off"
+    },
+    {
+      "hanzi": "\u8fc7",
+      "id": "I2HSSYQDPX",
+      "pinyin": "gu\u00f2",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "go through, pass, cross"
+    },
+    {
+      "hanzi": "\u82b1",
+      "id": "otA1AyKj8n",
+      "pinyin": "hu\u0101",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "flower; spend (money/time/etc)"
+    },
+    {
+      "hanzi": "\u753b",
+      "id": "PcHoJxywm6",
+      "pinyin": "hu\u00e0",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "painting; draw"
+    },
+    {
+      "hanzi": "\u574f",
+      "id": "tFTTfSMP51",
+      "pinyin": "hu\u00e0i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "bad"
+    },
+    {
+      "hanzi": "\u8fd8",
+      "id": "N4NGDKZ2cJ",
+      "pinyin": "hu\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "return"
+    },
+    {
+      "hanzi": "\u8fd8",
+      "id": "N4NGDKZ2cJ",
+      "pinyin": "hu\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "return"
+    },
+    {
+      "hanzi": "\u6362",
+      "id": "yoeMwsKipo",
+      "pinyin": "hu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "change, exchange"
+    },
+    {
+      "hanzi": "\u6362",
+      "id": "yoeMwsKipo",
+      "pinyin": "hu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "change, exchange"
+    },
+    {
+      "hanzi": "\u54ed",
+      "id": "UfDsyg5vDL",
+      "pinyin": "k\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cry"
+    },
+    {
+      "hanzi": "\u6811",
+      "id": "SBYdSNpva0",
+      "pinyin": "sh\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "tree"
+    },
+    {
+      "hanzi": "\u53cc",
+      "id": "3DRkwWdeSN",
+      "pinyin": "shu\u0101ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "pair"
+    },
+    {
+      "hanzi": "\u53cc",
+      "id": "3DRkwWdeSN",
+      "pinyin": "shu\u0101ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "pair"
+    },
+    {
+      "hanzi": "\u817f",
+      "id": "LCN6z4vTGE",
+      "pinyin": "tu\u01d0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "leg"
+    },
+    {
+      "hanzi": "\u7897",
+      "id": "a29rNDbWV0",
+      "pinyin": "w\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bowl"
+    },
+    {
+      "hanzi": "\u7897",
+      "id": "a29rNDbWV0",
+      "pinyin": "w\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bowl"
+    },
+    {
+      "hanzi": "\u4e07",
+      "id": "O9ASwJCVK9",
+      "pinyin": "w\u00e0n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "ten thousand"
+    },
+    {
+      "hanzi": "\u4e07",
+      "id": "O9ASwJCVK9",
+      "pinyin": "w\u00e0n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "ten thousand"
+    },
+    {
+      "hanzi": "\u4e3a",
+      "id": "kWFKxgRYGt",
+      "pinyin": "w\u00e8i",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "for"
+    },
+    {
+      "hanzi": "\u4f4d",
+      "id": "rc843ACB4x",
+      "pinyin": "w\u00e8i",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for people)"
+    },
+    {
+      "hanzi": "\u5634",
+      "id": "Lupwlcw9Of",
+      "pinyin": "zu\u01d0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "mouth"
+    },
+    {
+      "hanzi": "\u5b58",
+      "id": "8GA1ph2FDw",
+      "pinyin": "c\u00fan",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "deposit, store up"
+    },
+    {
+      "hanzi": "\u5b58",
+      "id": "8GA1ph2FDw",
+      "pinyin": "c\u00fan",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "deposit, store up"
+    },
+    {
+      "hanzi": "\u5bcc",
+      "id": "jIGkMWVq84",
+      "pinyin": "f\u00f9",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "rich, wealthy"
+    },
+    {
+      "hanzi": "\u6302",
+      "id": "Rj0ZbBIgvj",
+      "pinyin": "gu\u00e0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hang, hang up"
+    },
+    {
+      "hanzi": "\u5149",
+      "id": "WOy5lxbJeS",
+      "pinyin": "gu\u0101ng",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "merely, only; used up"
+    },
+    {
+      "hanzi": "\u5149",
+      "id": "WOy5lxbJeS",
+      "pinyin": "gu\u0101ng",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "merely, only; used up"
+    },
+    {
+      "hanzi": "\u901b",
+      "id": "0TUyM1Gdp3",
+      "pinyin": "gu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roam, stroll, ramble"
+    },
+    {
+      "hanzi": "\u901b",
+      "id": "0TUyM1Gdp3",
+      "pinyin": "gu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roam, stroll, ramble"
+    },
+    {
+      "hanzi": "\u706b",
+      "id": "9pFa1E129R",
+      "pinyin": "hu\u01d2",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "fire"
+    },
+    {
+      "hanzi": "\u4e3e",
+      "id": "XBZ5iFVBlx",
+      "pinyin": "j\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "raise, lift"
+    },
+    {
+      "hanzi": "\u82e6",
+      "id": "1KPGE7X9Ed",
+      "pinyin": "k\u01d4",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "painful, bitter"
+    },
+    {
+      "hanzi": "\u56f0",
+      "id": "K8a64eKIym",
+      "pinyin": "k\u00f9n",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "sleepy; be stranded"
+    },
+    {
+      "hanzi": "\u56f0",
+      "id": "K8a64eKIym",
+      "pinyin": "k\u00f9n",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "sleepy; be stranded"
+    },
+    {
+      "hanzi": "\u4e71",
+      "id": "PNxmUl0AxC",
+      "pinyin": "lu\u00e0n",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "arbitrarily; upset, disorderly"
+    },
+    {
+      "hanzi": "\u4e71",
+      "id": "PNxmUl0AxC",
+      "pinyin": "lu\u00e0n",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "arbitrarily; upset, disorderly"
+    },
+    {
+      "hanzi": "\u53d6",
+      "id": "5t1GCOnKj2",
+      "pinyin": "q\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "get, take"
+    },
+    {
+      "hanzi": "\u8f93",
+      "id": "M7kO6B1CyR",
+      "pinyin": "sh\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lose"
+    },
+    {
+      "hanzi": "\u5e05",
+      "id": "tCQBGmiiwO",
+      "pinyin": "shu\u00e0i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "handsome"
+    },
+    {
+      "hanzi": "\u9178",
+      "id": "63p0Wwxq0L",
+      "pinyin": "su\u0101n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sour"
+    },
+    {
+      "hanzi": "\u9178",
+      "id": "63p0Wwxq0L",
+      "pinyin": "su\u0101n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sour"
+    },
+    {
+      "hanzi": "\u63a8",
+      "id": "ZhBOtB8YDF",
+      "pinyin": "tu\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "push, delay"
+    },
+    {
+      "hanzi": "\u8131",
+      "id": "VA0lARU0Pe",
+      "pinyin": "tu\u014d",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take off"
+    },
+    {
+      "hanzi": "\u65e0",
+      "id": "IpLDDm5x6Z",
+      "pinyin": "w\u00fa",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "not have, be without"
+    },
+    {
+      "hanzi": "\u65e0",
+      "id": "IpLDDm5x6Z",
+      "pinyin": "w\u00fa",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "not have, be without"
+    },
+    {
+      "hanzi": "\u8f6c",
+      "id": "hhi9H6wStZ",
+      "pinyin": "zhu\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shift, turn, change"
+    },
+    {
+      "hanzi": "\u8f6c",
+      "id": "hhi9H6wStZ",
+      "pinyin": "zhu\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shift, turn, change"
+    },
+    {
+      "hanzi": "\u8d5a",
+      "id": "WhAke74NKH",
+      "pinyin": "zhu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "make a profit, gain"
+    },
+    {
+      "hanzi": "\u8d5a",
+      "id": "WhAke74NKH",
+      "pinyin": "zhu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "make a profit, gain"
+    },
+    {
+      "hanzi": "\u79df",
+      "id": "Z6LeDQQVmQ",
+      "pinyin": "z\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rent, charter"
+    },
+    {
+      "hanzi": "\u5ea7",
+      "id": "eLOMDWeVBX",
+      "pinyin": "zu\u00f2",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for buildings/mountains and similar immovable objects)"
+    },
+    {
+      "hanzi": "\u5e03",
+      "id": "GkOC9YJE1e",
+      "pinyin": "b\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "cloth"
+    },
+    {
+      "hanzi": "\u95ef",
+      "id": "veqFKBioUF",
+      "pinyin": "chu\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rush, temper onself"
+    },
+    {
+      "hanzi": "\u95ef",
+      "id": "veqFKBioUF",
+      "pinyin": "chu\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rush, temper onself"
+    },
+    {
+      "hanzi": "\u5439",
+      "id": "lANwSzEJuj",
+      "pinyin": "chu\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "blow, play (wind instruments)"
+    },
+    {
+      "hanzi": "\u918b",
+      "id": "oRa7ZuhAhb",
+      "pinyin": "c\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "vinegar"
+    },
+    {
+      "hanzi": "\u50ac",
+      "id": "cpcJJs5vWH",
+      "pinyin": "cu\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hurry, urge"
+    },
+    {
+      "hanzi": "\u65ad",
+      "id": "lU6uzBaV8G",
+      "pinyin": "du\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "break, cut off"
+    },
+    {
+      "hanzi": "\u65ad",
+      "id": "lU6uzBaV8G",
+      "pinyin": "du\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "break, cut off"
+    },
+    {
+      "hanzi": "\u5806",
+      "id": "0E2GKy0dw5",
+      "pinyin": "du\u012b",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "stack; pile (up)"
+    },
+    {
+      "hanzi": "\u5428",
+      "id": "bPasIgSRAM",
+      "pinyin": "d\u016bn",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "ton"
+    },
+    {
+      "hanzi": "\u5428",
+      "id": "bPasIgSRAM",
+      "pinyin": "d\u016bn",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "ton"
+    },
+    {
+      "hanzi": "\u987f",
+      "id": "4l42SoLGor",
+      "pinyin": "d\u00f9n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "time"
+    },
+    {
+      "hanzi": "\u987f",
+      "id": "4l42SoLGor",
+      "pinyin": "d\u00f9n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "time"
+    },
+    {
+      "hanzi": "\u8e72",
+      "id": "mSNtgM7KGX",
+      "pinyin": "d\u016bn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "squat, crounch"
+    },
+    {
+      "hanzi": "\u8e72",
+      "id": "mSNtgM7KGX",
+      "pinyin": "d\u016bn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "squat, crounch"
+    },
+    {
+      "hanzi": "\u6735",
+      "id": "zQKvQqrdVB",
+      "pinyin": "du\u01d2",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(of flowers/clouds)"
+    },
+    {
+      "hanzi": "\u6276",
+      "id": "5Jbi4IFVgH",
+      "pinyin": "f\u00fa",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "place a hand on something for support, support (with the hand)"
+    },
+    {
+      "hanzi": "\u5e45",
+      "id": "NQezjpDuO7",
+      "pinyin": "f\u00fa",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for paintings/cloth)"
+    },
+    {
+      "hanzi": "\u4e56",
+      "id": "m9ELAb0dcD",
+      "pinyin": "gu\u0101i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "clever, (of child) well-behaved"
+    },
+    {
+      "hanzi": "\u5b98",
+      "id": "NGnJbExtsU",
+      "pinyin": "gu\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "government official, official"
+    },
+    {
+      "hanzi": "\u5b98",
+      "id": "NGnJbExtsU",
+      "pinyin": "gu\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "government official, official"
+    },
+    {
+      "hanzi": "\u6eda",
+      "id": "3D3bM00onQ",
+      "pinyin": "g\u01d4n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roll, get away"
+    },
+    {
+      "hanzi": "\u6eda",
+      "id": "3D3bM00onQ",
+      "pinyin": "g\u01d4n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roll, get away"
+    },
+    {
+      "hanzi": "\u9505",
+      "id": "w2Q0vH84iA",
+      "pinyin": "gu\u014d",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "pot, pan"
+    },
+    {
+      "hanzi": "\u58f6",
+      "id": "36woFA1xPx",
+      "pinyin": "h\u00fa",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "kettle, pot"
+    },
+    {
+      "hanzi": "\u5212",
+      "id": "NYjwkh5rwl",
+      "pinyin": "hu\u00e1",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "paddle, row"
+    },
+    {
+      "hanzi": "\u6ed1",
+      "id": "HKEKDcXUVf",
+      "pinyin": "hu\u00e1",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "slippery; slip, slide"
+    },
+    {
+      "hanzi": "\u7070",
+      "id": "a37yCsRr6p",
+      "pinyin": "hu\u012b",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "grey"
+    },
+    {
+      "hanzi": "\u6325",
+      "id": "WRZMG41igz",
+      "pinyin": "hu\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wave, wield"
+    },
+    {
+      "hanzi": "\u6350",
+      "id": "F3mELuDTTw",
+      "pinyin": "ju\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "donate"
+    },
+    {
+      "hanzi": "\u6350",
+      "id": "F3mELuDTTw",
+      "pinyin": "ju\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "donate"
+    },
+    {
+      "hanzi": "\u5938",
+      "id": "iBU2bKF51t",
+      "pinyin": "ku\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "praise"
+    },
+    {
+      "hanzi": "\u5bbd",
+      "id": "JEfU43dBBh",
+      "pinyin": "ku\u0101n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "wide, broad"
+    },
+    {
+      "hanzi": "\u5bbd",
+      "id": "JEfU43dBBh",
+      "pinyin": "ku\u0101n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "wide, broad"
+    },
+    {
+      "hanzi": "\u5a36",
+      "id": "1JHqexC7X6",
+      "pinyin": "q\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "take a wife"
+    },
+    {
+      "hanzi": "\u5708",
+      "id": "8vpZZKR7J3",
+      "pinyin": "qu\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "circle; mark with a circle, encircle"
+    },
+    {
+      "hanzi": "\u5708",
+      "id": "8vpZZKR7J3",
+      "pinyin": "qu\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "circle; mark with a circle, encircle"
+    },
+    {
+      "hanzi": "\u529d",
+      "id": "1WU27aIyTf",
+      "pinyin": "qu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "try to persuade, advise"
+    },
+    {
+      "hanzi": "\u529d",
+      "id": "1WU27aIyTf",
+      "pinyin": "qu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "try to persuade, advise"
+    },
+    {
+      "hanzi": "\u7fa4",
+      "id": "gllsUUZE3b",
+      "pinyin": "q\u00fan",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "group, flock, crowd"
+    },
+    {
+      "hanzi": "\u7fa4",
+      "id": "gllsUUZE3b",
+      "pinyin": "q\u00fan",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "group, flock, crowd"
+    },
+    {
+      "hanzi": "\u8f6f",
+      "id": "BEuSfJ8Dcn",
+      "pinyin": "ru\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "soft"
+    },
+    {
+      "hanzi": "\u8f6f",
+      "id": "BEuSfJ8Dcn",
+      "pinyin": "ru\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "soft"
+    },
+    {
+      "hanzi": "\u5f31",
+      "id": "q0SEIBbBw0",
+      "pinyin": "ru\u00f2",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "weak, inferior"
+    },
+    {
+      "hanzi": "\u6570",
+      "id": "Cop2Sy4esS",
+      "pinyin": "sh\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "count, be reckoned as"
+    },
+    {
+      "hanzi": "\u7529",
+      "id": "Xm58jXvf0h",
+      "pinyin": "shu\u01cei",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "swing, leave somebody behind, fling"
+    },
+    {
+      "hanzi": "\u7a0e",
+      "id": "GQjNDRW6lc",
+      "pinyin": "shu\u00ec",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "tax, duty"
+    },
+    {
+      "hanzi": "\u788e",
+      "id": "rhEbRgqxXt",
+      "pinyin": "su\u00ec",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "broken; break into pieces"
+    },
+    {
+      "hanzi": "\u6240",
+      "id": "LOk0NRGgOt",
+      "pinyin": "su\u01d2",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(used before a verb to form a noun phrase)"
+    },
+    {
+      "hanzi": "\u9501",
+      "id": "UAUlnF1jZr",
+      "pinyin": "su\u01d2",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "lock"
+    },
+    {
+      "hanzi": "\u5410",
+      "id": "AYdJLB8Umx",
+      "pinyin": "t\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "spit"
+    },
+    {
+      "hanzi": "\u56e2",
+      "id": "SFOXkpKBu1",
+      "pinyin": "tu\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "group, shaped like a ball"
+    },
+    {
+      "hanzi": "\u56e2",
+      "id": "SFOXkpKBu1",
+      "pinyin": "tu\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "group, shaped like a ball"
+    },
+    {
+      "hanzi": "\u9000",
+      "id": "AIwD5lPH4A",
+      "pinyin": "tu\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "move back, return"
+    },
+    {
+      "hanzi": "\u6b6a",
+      "id": "oRNNSJZGVD",
+      "pinyin": "w\u0101i",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "askew, tilted"
+    },
+    {
+      "hanzi": "\u80c3",
+      "id": "iANRfCaf6c",
+      "pinyin": "w\u00e8i",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "stomach"
+    },
+    {
+      "hanzi": "\u95fb",
+      "id": "nk72MGt3E5",
+      "pinyin": "w\u00e9n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "smell"
+    },
+    {
+      "hanzi": "\u543b",
+      "id": "qL1BYA8xfz",
+      "pinyin": "w\u011bn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "kiss"
+    },
+    {
+      "hanzi": "\u52ff",
+      "id": "nm7oawZzLM",
+      "pinyin": "w\u00f9",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "do not, never"
+    },
+    {
+      "hanzi": "\u52ff",
+      "id": "nm7oawZzLM",
+      "pinyin": "w\u00f9",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "do not, never"
+    },
+    {
+      "hanzi": "\u96fe",
+      "id": "YaB4x5p8qn",
+      "pinyin": "w\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "fog, mist"
+    },
+    {
+      "hanzi": "\u96fe",
+      "id": "YaB4x5p8qn",
+      "pinyin": "w\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "fog, mist"
+    },
+    {
+      "hanzi": "\u732a",
+      "id": "hDr0yKbFAu",
+      "pinyin": "zh\u016b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "pig"
+    },
+    {
+      "hanzi": "\u716e",
+      "id": "oeiq4UfVux",
+      "pinyin": "zh\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cook, boil"
+    },
+    {
+      "hanzi": "\u6293",
+      "id": "KY9OsbWajB",
+      "pinyin": "zhu\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "grab, seize, clutch"
+    },
+    {
+      "hanzi": "\u88c5",
+      "id": "qd6q1uWTeo",
+      "pinyin": "zhu\u0101ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "install, pretend"
+    },
+    {
+      "hanzi": "\u88c5",
+      "id": "qd6q1uWTeo",
+      "pinyin": "zhu\u0101ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "install, pretend"
+    },
+    {
+      "hanzi": "\u649e",
+      "id": "j1ZD7xz1fW",
+      "pinyin": "zhu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "bump against, collide"
+    },
+    {
+      "hanzi": "\u649e",
+      "id": "j1ZD7xz1fW",
+      "pinyin": "zhu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "bump against, collide"
+    },
+    {
+      "hanzi": "\u8ffd",
+      "id": "dCGBEIHnQi",
+      "pinyin": "zhu\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "chase after, pursue"
+    },
+    {
+      "hanzi": "\u7ec4",
+      "id": "VayzQI4joG",
+      "pinyin": "z\u01d4",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "set, series"
+    },
+    {
+      "hanzi": "\u9189",
+      "id": "btNPQxLClQ",
+      "pinyin": "zu\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "be drunk"
+    },
+    {
+      "hanzi": "\u9664",
+      "id": "CeWLFGVSD5",
+      "pinyin": "ch\u00fa",
+      "speechPart": [
+        "v",
+        "prep"
+      ],
+      "definition": "divide; except, besides"
+    },
+    {
+      "hanzi": "\u4e32",
+      "id": "OY5NEq9ULr",
+      "pinyin": "chu\u00e0n",
+      "speechPart": [
+        "m",
+        "v",
+        "n"
+      ],
+      "definition": "string; string together; string of things"
+    },
+    {
+      "hanzi": "\u4e32",
+      "id": "OY5NEq9ULr",
+      "pinyin": "chu\u00e0n",
+      "speechPart": [
+        "m",
+        "v",
+        "n"
+      ],
+      "definition": "string; string together; string of things"
+    },
+    {
+      "hanzi": "\u9524",
+      "id": "cxop9JBqLR",
+      "pinyin": "chu\u00ed",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "hammer; hammer into shape"
+    },
+    {
+      "hanzi": "\u7a9c",
+      "id": "f5DktUOsp9",
+      "pinyin": "cu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "flee, make alterations in wording"
+    },
+    {
+      "hanzi": "\u7a9c",
+      "id": "f5DktUOsp9",
+      "pinyin": "cu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "flee, make alterations in wording"
+    },
+    {
+      "hanzi": "\u6413",
+      "id": "zYLmpOlTYa",
+      "pinyin": "cu\u014d",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rub with hands"
+    },
+    {
+      "hanzi": "\u7aef",
+      "id": "GKEAZkurlx",
+      "pinyin": "du\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "end, extremity, beginning; hold something level with both hands, carry"
+    },
+    {
+      "hanzi": "\u7aef",
+      "id": "GKEAZkurlx",
+      "pinyin": "du\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "end, extremity, beginning; hold something level with both hands, carry"
+    },
+    {
+      "hanzi": "\u526f",
+      "id": "LoJGyz9vTq",
+      "pinyin": "f\u00f9",
+      "speechPart": [
+        "adj",
+        "n",
+        "m"
+      ],
+      "definition": "assistant, deputy; assistant post; (used for a pair)"
+    },
+    {
+      "hanzi": "\u7f50",
+      "id": "57QZsh2Wvo",
+      "pinyin": "gu\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "jar, pot, can"
+    },
+    {
+      "hanzi": "\u7f50",
+      "id": "57QZsh2Wvo",
+      "pinyin": "gu\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "jar, pot, can"
+    },
+    {
+      "hanzi": "\u8dea",
+      "id": "0fQPZTcAvj",
+      "pinyin": "gu\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "kneel"
+    },
+    {
+      "hanzi": "\u6643",
+      "id": "9mIgoJ6gHn",
+      "pinyin": "hu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shake, dazzle"
+    },
+    {
+      "hanzi": "\u6643",
+      "id": "9mIgoJ6gHn",
+      "pinyin": "hu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shake, dazzle"
+    },
+    {
+      "hanzi": "\u8364",
+      "id": "STTii4OckE",
+      "pinyin": "h\u016bn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "meat or fish dishes"
+    },
+    {
+      "hanzi": "\u8364",
+      "id": "STTii4OckE",
+      "pinyin": "h\u016bn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "meat or fish dishes"
+    },
+    {
+      "hanzi": "\u5377",
+      "id": "FtZJD0WxGi",
+      "pinyin": "ju\u01cen",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "roll; roll up, sweep along"
+    },
+    {
+      "hanzi": "\u5377",
+      "id": "FtZJD0WxGi",
+      "pinyin": "ju\u01cen",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "roll; roll up, sweep along"
+    },
+    {
+      "hanzi": "\u630e",
+      "id": "zS2tNhJ0ee",
+      "pinyin": "ku\u00e0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "carry on one's arm"
+    },
+    {
+      "hanzi": "\u8de8",
+      "id": "lp5mgo6dXs",
+      "pinyin": "ku\u00e0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cut across, step, stride"
+    },
+    {
+      "hanzi": "\u7b50",
+      "id": "zT1o7W7HYp",
+      "pinyin": "ku\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "basket"
+    },
+    {
+      "hanzi": "\u7b50",
+      "id": "zT1o7W7HYp",
+      "pinyin": "ku\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "basket"
+    },
+    {
+      "hanzi": "\u632a",
+      "id": "Zg4tdL3ZUO",
+      "pinyin": "nu\u00f3",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "move, divert"
+    },
+    {
+      "hanzi": "\u6734",
+      "id": "5uVzKAX2y7",
+      "pinyin": "p\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "throw oneself on, pounce on, devote"
+    },
+    {
+      "hanzi": "\u94fa",
+      "id": "PSqVcBv9sj",
+      "pinyin": "p\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "spread, unfold, pave"
+    },
+    {
+      "hanzi": "\u72ac",
+      "id": "vRAKw1D8Lx",
+      "pinyin": "qu\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "dog"
+    },
+    {
+      "hanzi": "\u72ac",
+      "id": "vRAKw1D8Lx",
+      "pinyin": "qu\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "dog"
+    },
+    {
+      "hanzi": "\u675f",
+      "id": "mN9GBCSP9g",
+      "pinyin": "sh\u00f9",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "bundle, bunch, sheaf; bind"
+    },
+    {
+      "hanzi": "\u7ad6",
+      "id": "KGcLnkWRVJ",
+      "pinyin": "sh\u00f9",
+      "speechPart": [
+        "v",
+        "adj",
+        "n"
+      ],
+      "definition": "set upright, erect; vertical; vertical stroke"
+    },
+    {
+      "hanzi": "\u800d",
+      "id": "LfFvvoIL5J",
+      "pinyin": "shu\u01ce",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "play, play with, flourish, play tricks"
+    },
+    {
+      "hanzi": "\u79c3",
+      "id": "QgF3H4v2Xv",
+      "pinyin": "t\u016b",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "bald, bare, barren, blunt"
+    },
+    {
+      "hanzi": "\u54c7",
+      "id": "l2PyrveWtp",
+      "pinyin": "w\u0101",
+      "speechPart": [
+        "aux"
+      ],
+      "definition": "(used in place of \u554a after a word ending in u or ao)"
+    },
+    {
+      "hanzi": "\u4e38",
+      "id": "rrLT0d7pFa",
+      "pinyin": "w\u00e1n",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "ball, pellet, pill, bolus; (used for pills for Chinese medecine)"
+    },
+    {
+      "hanzi": "\u4e38",
+      "id": "rrLT0d7pFa",
+      "pinyin": "w\u00e1n",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "ball, pellet, pill, bolus; (used for pills for Chinese medecine)"
+    },
+    {
+      "hanzi": "\u5582",
+      "id": "65kI4VggDu",
+      "pinyin": "w\u00e8i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "feed, raise"
+    },
+    {
+      "hanzi": "\u7a9d",
+      "id": "y4wMRTOnFP",
+      "pinyin": "w\u014d",
+      "speechPart": [
+        "n",
+        "v",
+        "m"
+      ],
+      "definition": "nest, den, lair; harbour, stay; litter, brood"
+    },
+    {
+      "hanzi": "\u682a",
+      "id": "96PYRtAj1y",
+      "pinyin": "zh\u016b",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for plants or trees)"
+    },
+    {
+      "hanzi": "\u62c4",
+      "id": "6ThGITE8n9",
+      "pinyin": "zh\u01d4",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lean on (a stick)"
+    },
+    {
+      "hanzi": "\u62fd",
+      "id": "raJHHs1gGt",
+      "pinyin": "zhu\u00e0i",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pull, drag"
+    },
+    {
+      "hanzi": "\u7816",
+      "id": "PEegqWOGbu",
+      "pinyin": "zhu\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "brick"
+    },
+    {
+      "hanzi": "\u7816",
+      "id": "PEegqWOGbu",
+      "pinyin": "zhu\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "brick"
+    },
+    {
+      "hanzi": "\u5e62",
+      "id": "RvNVmRrWqg",
+      "pinyin": "zhu\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for houses or buildings)"
+    },
+    {
+      "hanzi": "\u5e62",
+      "id": "RvNVmRrWqg",
+      "pinyin": "zhu\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for houses or buildings)"
+    },
+    {
+      "hanzi": "\u5760",
+      "id": "frN8BMtirS",
+      "pinyin": "zhu\u00ec",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "hanging object; fall, drop"
+    }
+  ],
+  "third": [
+    {
+      "hanzi": "\u5403",
+      "id": "9GgtKRruvG",
+      "pinyin": "ch\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "eat"
+    },
+    {
+      "hanzi": "\u70b9",
+      "id": "Oz1QKkE3Eq",
+      "pinyin": "di\u01cen",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "o'clock"
+    },
+    {
+      "hanzi": "\u70b9",
+      "id": "Oz1QKkE3Eq",
+      "pinyin": "di\u01cen",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "o'clock"
+    },
+    {
+      "hanzi": "\u51e0",
+      "id": "9LUXsCJLRD",
+      "pinyin": "j\u01d0",
+      "speechPart": [
+        "pron",
+        "num"
+      ],
+      "definition": "how many; some (between 2 and 9)"
+    },
+    {
+      "hanzi": "\u5bb6",
+      "id": "t8DCbK6RtW",
+      "pinyin": "ji\u0101",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "home, family; (used for families or enterprises)"
+    },
+    {
+      "hanzi": "\u53eb",
+      "id": "uPDlvVP0oM",
+      "pinyin": "ji\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "name"
+    },
+    {
+      "hanzi": "\u91cc",
+      "id": "lEQH9BlHuS",
+      "pinyin": "l\u01d0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "inner, inside"
+    },
+    {
+      "hanzi": "\u4f60",
+      "id": "9WRqr7mxXW",
+      "pinyin": "n\u01d0",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "you"
+    },
+    {
+      "hanzi": "\u5e74",
+      "id": "a2UsFVCA9F",
+      "pinyin": "ni\u00e1n",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "year"
+    },
+    {
+      "hanzi": "\u5e74",
+      "id": "a2UsFVCA9F",
+      "pinyin": "ni\u00e1n",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "year"
+    },
+    {
+      "hanzi": "\u4e03",
+      "id": "S1muLzMuNy",
+      "pinyin": "q\u012b",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "seven"
+    },
+    {
+      "hanzi": "\u94b1",
+      "id": "p84jZAe7JD",
+      "pinyin": "qi\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "money"
+    },
+    {
+      "hanzi": "\u94b1",
+      "id": "p84jZAe7JD",
+      "pinyin": "qi\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "money"
+    },
+    {
+      "hanzi": "\u5341",
+      "id": "jLvoEHvYfO",
+      "pinyin": "sh\u00ed",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "ten"
+    },
+    {
+      "hanzi": "\u662f",
+      "id": "MvJjrpiHFa",
+      "pinyin": "sh\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "be"
+    },
+    {
+      "hanzi": "\u56db",
+      "id": "HWHkDpgMBL",
+      "pinyin": "s\u00ec",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "four"
+    },
+    {
+      "hanzi": "\u4e0b",
+      "id": "fsjsbv96Vs",
+      "pinyin": "xi\u00e0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "under, below"
+    },
+    {
+      "hanzi": "\u60f3",
+      "id": "dGZOhUxQd2",
+      "pinyin": "xi\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "want"
+    },
+    {
+      "hanzi": "\u60f3",
+      "id": "dGZOhUxQd2",
+      "pinyin": "xi\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "want"
+    },
+    {
+      "hanzi": "\u5c0f",
+      "id": "j6pwA0V8Y7",
+      "pinyin": "xi\u01ceo",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "small, little"
+    },
+    {
+      "hanzi": "\u4e00",
+      "id": "i8WDqpLTZM",
+      "pinyin": "y\u012b",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "one"
+    },
+    {
+      "hanzi": "\u5b57",
+      "id": "oX6yb4FEPg",
+      "pinyin": "z\u00ec",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "character"
+    },
+    {
+      "hanzi": "\u6bd4",
+      "id": "S7TDWi2rkU",
+      "pinyin": "b\u01d0",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "than"
+    },
+    {
+      "hanzi": "\u6b21",
+      "id": "pbM1MYfD0j",
+      "pinyin": "c\u00ec",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "time"
+    },
+    {
+      "hanzi": "\u4ef6",
+      "id": "y012rUlrFa",
+      "pinyin": "ji\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "piece ( for clothes and items)"
+    },
+    {
+      "hanzi": "\u4ef6",
+      "id": "y012rUlrFa",
+      "pinyin": "ji\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "piece ( for clothes and items)"
+    },
+    {
+      "hanzi": "\u8fdb",
+      "id": "yX3BVVpuMa",
+      "pinyin": "j\u00ecn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "enter"
+    },
+    {
+      "hanzi": "\u8fd1",
+      "id": "TUOT2nYS9p",
+      "pinyin": "j\u00ecn",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "near, close"
+    },
+    {
+      "hanzi": "\u79bb",
+      "id": "BvGzRADH3T",
+      "pinyin": "l\u00ed",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "be away from"
+    },
+    {
+      "hanzi": "\u4e24",
+      "id": "2FQxwKUOiq",
+      "pinyin": "li\u01ceng",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "two"
+    },
+    {
+      "hanzi": "\u4e24",
+      "id": "2FQxwKUOiq",
+      "pinyin": "li\u01ceng",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "two"
+    },
+    {
+      "hanzi": "\u60a8",
+      "id": "QTSFPUFLzz",
+      "pinyin": "n\u00edn",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "you (formal)"
+    },
+    {
+      "hanzi": "\u7968",
+      "id": "mmdv6KgTDg",
+      "pinyin": "pi\u00e0o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "ticket"
+    },
+    {
+      "hanzi": "\u5343",
+      "id": "JJJvqTBaKc",
+      "pinyin": "qi\u0101n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "thousand"
+    },
+    {
+      "hanzi": "\u5343",
+      "id": "JJJvqTBaKc",
+      "pinyin": "qi\u0101n",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "thousand"
+    },
+    {
+      "hanzi": "\u65e5",
+      "id": "2AdNsi4bw8",
+      "pinyin": "r\u00ec",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "day"
+    },
+    {
+      "hanzi": "\u9898",
+      "id": "aG9JdebUdx",
+      "pinyin": "t\u00ed",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "question"
+    },
+    {
+      "hanzi": "\u6d17",
+      "id": "tRLf04nlDD",
+      "pinyin": "x\u01d0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wash"
+    },
+    {
+      "hanzi": "\u7b11",
+      "id": "7uuEYgCBXe",
+      "pinyin": "xi\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "smile, laugh"
+    },
+    {
+      "hanzi": "\u65b0",
+      "id": "Aiq3Wars41",
+      "pinyin": "x\u012bn",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "new"
+    },
+    {
+      "hanzi": "\u836f",
+      "id": "JZsEB3JtCV",
+      "pinyin": "y\u00e0o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "medicine, drug"
+    },
+    {
+      "hanzi": "\u8981",
+      "id": "kPiYwNRHP3",
+      "pinyin": "y\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "want, must, shall"
+    },
+    {
+      "hanzi": "\u9634",
+      "id": "yNRoP3iGOc",
+      "pinyin": "y\u012bn",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "overcast, cloudy"
+    },
+    {
+      "hanzi": "\u53ea",
+      "id": "asTPRk0jSe",
+      "pinyin": "zh\u012b",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for small boat/bird/animal)"
+    },
+    {
+      "hanzi": "\u6781",
+      "id": "NPSNrngxEk",
+      "pinyin": "j\u00ed",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "extremely"
+    },
+    {
+      "hanzi": "\u8bb2",
+      "id": "BnHeiEC1cd",
+      "pinyin": "ji\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "speak, talk"
+    },
+    {
+      "hanzi": "\u8bb2",
+      "id": "BnHeiEC1cd",
+      "pinyin": "ji\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "speak, talk"
+    },
+    {
+      "hanzi": "\u6559",
+      "id": "fQsMd0teyW",
+      "pinyin": "ji\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "teach"
+    },
+    {
+      "hanzi": "\u89d2",
+      "id": "c9d18C2cA7",
+      "pinyin": "ji\u01ceo",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for money)"
+    },
+    {
+      "hanzi": "\u811a",
+      "id": "aNpVTURKI3",
+      "pinyin": "ji\u01ceo",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "foot"
+    },
+    {
+      "hanzi": "\u8138",
+      "id": "NRGYCia7TV",
+      "pinyin": "li\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "face"
+    },
+    {
+      "hanzi": "\u8138",
+      "id": "NRGYCia7TV",
+      "pinyin": "li\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "face"
+    },
+    {
+      "hanzi": "\u8f86",
+      "id": "GpGDIGALhP",
+      "pinyin": "li\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for vehicles)"
+    },
+    {
+      "hanzi": "\u8f86",
+      "id": "GpGDIGALhP",
+      "pinyin": "li\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for vehicles)"
+    },
+    {
+      "hanzi": "\u7c73",
+      "id": "dY4ZM2sg3m",
+      "pinyin": "m\u01d0",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "metre"
+    },
+    {
+      "hanzi": "\u9e1f",
+      "id": "Og7lnoyKyB",
+      "pinyin": "ni\u01ceo",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bird"
+    },
+    {
+      "hanzi": "\u9a91",
+      "id": "2o2C9SUMQU",
+      "pinyin": "q\u00ed",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "ride"
+    },
+    {
+      "hanzi": "\u8bd5",
+      "id": "aXuquIUExl",
+      "pinyin": "sh\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "try"
+    },
+    {
+      "hanzi": "\u751c",
+      "id": "vdnQ2PPszK",
+      "pinyin": "ti\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sweet"
+    },
+    {
+      "hanzi": "\u751c",
+      "id": "vdnQ2PPszK",
+      "pinyin": "ti\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sweet"
+    },
+    {
+      "hanzi": "\u6761",
+      "id": "Czn4YfJEsF",
+      "pinyin": "ti\u00e1o",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for long/narrow or thin)"
+    },
+    {
+      "hanzi": "\u897f",
+      "id": "7WICv8gf2t",
+      "pinyin": "x\u012b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "west"
+    },
+    {
+      "hanzi": "\u590f",
+      "id": "Hd2qiguJPU",
+      "pinyin": "xi\u00e0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "summer"
+    },
+    {
+      "hanzi": "\u5148",
+      "id": "I6Qf6SAqB8",
+      "pinyin": "xi\u0101n",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "first, in advance"
+    },
+    {
+      "hanzi": "\u5148",
+      "id": "I6Qf6SAqB8",
+      "pinyin": "xi\u0101n",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "first, in advance"
+    },
+    {
+      "hanzi": "\u5411",
+      "id": "A5wg7DnMo9",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "to, towards"
+    },
+    {
+      "hanzi": "\u5411",
+      "id": "A5wg7DnMo9",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "to, towards"
+    },
+    {
+      "hanzi": "\u50cf",
+      "id": "LdDIEtqPQ7",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "be like"
+    },
+    {
+      "hanzi": "\u50cf",
+      "id": "LdDIEtqPQ7",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "be like"
+    },
+    {
+      "hanzi": "\u53ea",
+      "id": "lfBAIZ8AUu",
+      "pinyin": "zh\u01d0",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "only, just"
+    },
+    {
+      "hanzi": "\u904d",
+      "id": "EZDiHdKcEB",
+      "pinyin": "bi\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "time"
+    },
+    {
+      "hanzi": "\u904d",
+      "id": "EZDiHdKcEB",
+      "pinyin": "bi\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "time"
+    },
+    {
+      "hanzi": "\u4f4e",
+      "id": "nIwyoZdbl1",
+      "pinyin": "d\u012b",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "low"
+    },
+    {
+      "hanzi": "\u5e95",
+      "id": "bkQbTD58F3",
+      "pinyin": "d\u01d0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bottom, end of month/year"
+    },
+    {
+      "hanzi": "\u6389",
+      "id": "lo87B9X9cx",
+      "pinyin": "di\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lose, fall, get rid of"
+    },
+    {
+      "hanzi": "\u5bc4",
+      "id": "1APi0gNcS3",
+      "pinyin": "j\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "post, mail"
+    },
+    {
+      "hanzi": "\u5047",
+      "id": "Q7fEQsaGSS",
+      "pinyin": "ji\u01ce",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "fake, false"
+    },
+    {
+      "hanzi": "\u4ea4",
+      "id": "2c92qBXeOA",
+      "pinyin": "ji\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hand over, associate with"
+    },
+    {
+      "hanzi": "\u4fe9",
+      "id": "YfWAVGCZhi",
+      "pinyin": "li\u01ce",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "two"
+    },
+    {
+      "hanzi": "\u8fde",
+      "id": "C4oirs8a3Y",
+      "pinyin": "li\u00e1n",
+      "speechPart": [
+        "adv",
+        "prep",
+        "v"
+      ],
+      "definition": "one after another; even (used with \u4e5f/\u90fd); link"
+    },
+    {
+      "hanzi": "\u8fde",
+      "id": "C4oirs8a3Y",
+      "pinyin": "li\u00e1n",
+      "speechPart": [
+        "adv",
+        "prep",
+        "v"
+      ],
+      "definition": "one after another; even (used with \u4e5f/\u90fd); link"
+    },
+    {
+      "hanzi": "\u79d2",
+      "id": "rFiSe8mXj6",
+      "pinyin": "mi\u01ceo",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "second"
+    },
+    {
+      "hanzi": "\u7bc7",
+      "id": "7KTHaOIpto",
+      "pinyin": "pi\u0101n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for paper/article) sheet, piece"
+    },
+    {
+      "hanzi": "\u7bc7",
+      "id": "7KTHaOIpto",
+      "pinyin": "pi\u0101n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for paper/article) sheet, piece"
+    },
+    {
+      "hanzi": "\u9a97",
+      "id": "haYQ8YQ0o5",
+      "pinyin": "pi\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lie, deceive, fool"
+    },
+    {
+      "hanzi": "\u9a97",
+      "id": "haYQ8YQ0o5",
+      "pinyin": "pi\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lie, deceive, fool"
+    },
+    {
+      "hanzi": "\u6572",
+      "id": "JgDtdVwmSR",
+      "pinyin": "qi\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "knock, strike, beat"
+    },
+    {
+      "hanzi": "\u6865",
+      "id": "Qqnalxlnhk",
+      "pinyin": "qi\u00e1o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bridge"
+    },
+    {
+      "hanzi": "\u4f7f",
+      "id": "w1I8QikhnZ",
+      "pinyin": "sh\u01d0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "make"
+    },
+    {
+      "hanzi": "\u6b7b",
+      "id": "qUASPesIzm",
+      "pinyin": "s\u01d0",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "extreme; die"
+    },
+    {
+      "hanzi": "\u63d0",
+      "id": "T4B2FfSPGl",
+      "pinyin": "t\u00ed",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "carry, raise, mention, put forward"
+    },
+    {
+      "hanzi": "\u54b8",
+      "id": "3b5j1LpuWC",
+      "pinyin": "xi\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "salty"
+    },
+    {
+      "hanzi": "\u54b8",
+      "id": "3b5j1LpuWC",
+      "pinyin": "xi\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "salty"
+    },
+    {
+      "hanzi": "\u9999",
+      "id": "HbKeobrh4M",
+      "pinyin": "xi\u0101ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "aromatic, fragrant"
+    },
+    {
+      "hanzi": "\u9999",
+      "id": "HbKeobrh4M",
+      "pinyin": "xi\u0101ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "aromatic, fragrant"
+    },
+    {
+      "hanzi": "\u54cd",
+      "id": "K8Et9xDcKh",
+      "pinyin": "xi\u01ceng",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "loud, noisy; cause to make a sound"
+    },
+    {
+      "hanzi": "\u54cd",
+      "id": "K8Et9xDcKh",
+      "pinyin": "xi\u01ceng",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "loud, noisy; cause to make a sound"
+    },
+    {
+      "hanzi": "\u5440",
+      "id": "BkvygmuoUf",
+      "pinyin": "ya",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(expressing surprise or doubt)"
+    },
+    {
+      "hanzi": "\u76d0",
+      "id": "erKGAiJnnh",
+      "pinyin": "y\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "salt"
+    },
+    {
+      "hanzi": "\u76d0",
+      "id": "erKGAiJnnh",
+      "pinyin": "y\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "salt"
+    },
+    {
+      "hanzi": "\u4ee5",
+      "id": "H37lZG14wy",
+      "pinyin": "y\u01d0",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "with, by means of"
+    },
+    {
+      "hanzi": "\u4e4b",
+      "id": "OnONyHfgS4",
+      "pinyin": "zh\u012b",
+      "speechPart": [
+        "part"
+      ],
+      "definition": "(between an attribute and the word it modifies)"
+    },
+    {
+      "hanzi": "\u6307",
+      "id": "DQhhVBFVYw",
+      "pinyin": "zh\u01d0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "point at, refer to"
+    },
+    {
+      "hanzi": "\u4fbf",
+      "id": "NgGEmPuLp3",
+      "pinyin": "bi\u00e0n",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "as soon as"
+    },
+    {
+      "hanzi": "\u4fbf",
+      "id": "NgGEmPuLp3",
+      "pinyin": "bi\u00e0n",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "as soon as"
+    },
+    {
+      "hanzi": "\u6ef4",
+      "id": "Fx0lkhgIPF",
+      "pinyin": "d\u012b",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "drop; drip"
+    },
+    {
+      "hanzi": "\u9012",
+      "id": "7cSKjT3orh",
+      "pinyin": "d\u00ec",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pass, hand over"
+    },
+    {
+      "hanzi": "\u9493",
+      "id": "dknMgHHi79",
+      "pinyin": "di\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "angle, fish"
+    },
+    {
+      "hanzi": "\u7532",
+      "id": "XiJYiUcq6f",
+      "pinyin": "ji\u01ce",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "shell, first"
+    },
+    {
+      "hanzi": "\u5ac1",
+      "id": "C5lP5vSWHT",
+      "pinyin": "ji\u00e0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "(of a woman) marry"
+    },
+    {
+      "hanzi": "\u6361",
+      "id": "jkh4oB7m5p",
+      "pinyin": "ji\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pickup, collect"
+    },
+    {
+      "hanzi": "\u6361",
+      "id": "jkh4oB7m5p",
+      "pinyin": "ji\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pickup, collect"
+    },
+    {
+      "hanzi": "\u6d47",
+      "id": "wOsdPxr0Lp",
+      "pinyin": "ji\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pour liquid on, water"
+    },
+    {
+      "hanzi": "\u68a8",
+      "id": "P4iUUmAqGe",
+      "pinyin": "l\u00ed",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "pear"
+    },
+    {
+      "hanzi": "\u4eae",
+      "id": "17VG9HptSu",
+      "pinyin": "li\u00e0ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "bright"
+    },
+    {
+      "hanzi": "\u4eae",
+      "id": "17VG9HptSu",
+      "pinyin": "li\u00e0ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "bright"
+    },
+    {
+      "hanzi": "\u5ff5",
+      "id": "HobQEWHF3B",
+      "pinyin": "ni\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "read out, study"
+    },
+    {
+      "hanzi": "\u5ff5",
+      "id": "HobQEWHF3B",
+      "pinyin": "ni\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "read out, study"
+    },
+    {
+      "hanzi": "\u6279",
+      "id": "njVa0qZqyH",
+      "pinyin": "p\u012b",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "batch, group"
+    },
+    {
+      "hanzi": "\u62ab",
+      "id": "8hNFiyRdUK",
+      "pinyin": "p\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "drape over one's shoulder"
+    },
+    {
+      "hanzi": "\u5339",
+      "id": "rO8NbAqnTa",
+      "pinyin": "p\u01d0",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for mules/horses and cloth)"
+    },
+    {
+      "hanzi": "\u98d8",
+      "id": "M10UIfm3sZ",
+      "pinyin": "pi\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "float, drift"
+    },
+    {
+      "hanzi": "\u7247",
+      "id": "RcIiWXWRet",
+      "pinyin": "pi\u00e0n",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "thin piece; slice, tablet"
+    },
+    {
+      "hanzi": "\u7247",
+      "id": "RcIiWXWRet",
+      "pinyin": "pi\u00e0n",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "thin piece; slice, tablet"
+    },
+    {
+      "hanzi": "\u7b7e",
+      "id": "uD1HcrtvKA",
+      "pinyin": "qi\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "sign, autograph"
+    },
+    {
+      "hanzi": "\u7b7e",
+      "id": "uD1HcrtvKA",
+      "pinyin": "qi\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "sign, autograph"
+    },
+    {
+      "hanzi": "\u6d45",
+      "id": "kiJpTCYGpG",
+      "pinyin": "qi\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "shallow, light (color)"
+    },
+    {
+      "hanzi": "\u6d45",
+      "id": "kiJpTCYGpG",
+      "pinyin": "qi\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "shallow, light (color)"
+    },
+    {
+      "hanzi": "\u6b20",
+      "id": "ctTkHHuqBK",
+      "pinyin": "qi\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "owe, lack"
+    },
+    {
+      "hanzi": "\u6b20",
+      "id": "ctTkHHuqBK",
+      "pinyin": "qi\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "owe, lack"
+    },
+    {
+      "hanzi": "\u67aa",
+      "id": "AgGpTlx3eY",
+      "pinyin": "qi\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "gun, firearm"
+    },
+    {
+      "hanzi": "\u67aa",
+      "id": "AgGpTlx3eY",
+      "pinyin": "qi\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "gun, firearm"
+    },
+    {
+      "hanzi": "\u5899",
+      "id": "DY8oYK952I",
+      "pinyin": "qi\u00e1ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "wall"
+    },
+    {
+      "hanzi": "\u5899",
+      "id": "DY8oYK952I",
+      "pinyin": "qi\u00e1ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "wall"
+    },
+    {
+      "hanzi": "\u62a2",
+      "id": "EK4gHXaHBe",
+      "pinyin": "qi\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rob, snatch"
+    },
+    {
+      "hanzi": "\u62a2",
+      "id": "EK4gHXaHBe",
+      "pinyin": "qi\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rob, snatch"
+    },
+    {
+      "hanzi": "\u77a7",
+      "id": "Ah0fcxOQX0",
+      "pinyin": "qi\u00e1o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "look, see"
+    },
+    {
+      "hanzi": "\u8bd7",
+      "id": "UcqINgbEa2",
+      "pinyin": "sh\u012b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "poem, poetry"
+    },
+    {
+      "hanzi": "\u6495",
+      "id": "b5uIqI9Ykd",
+      "pinyin": "s\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "tear, rip"
+    },
+    {
+      "hanzi": "\u7cfb",
+      "id": "FlEBFKSdB5",
+      "pinyin": "x\u00ec",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "(academic) department"
+    },
+    {
+      "hanzi": "\u778e",
+      "id": "qyMeLvRf5b",
+      "pinyin": "xi\u0101",
+      "speechPart": [
+        "adv",
+        "v"
+      ],
+      "definition": "blindly; be blind"
+    },
+    {
+      "hanzi": "\u5413",
+      "id": "b9NsMxQV1F",
+      "pinyin": "xi\u00e0",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "scare, frighten"
+    },
+    {
+      "hanzi": "\u53bf",
+      "id": "krkIAg4MnN",
+      "pinyin": "xi\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "county"
+    },
+    {
+      "hanzi": "\u53bf",
+      "id": "krkIAg4MnN",
+      "pinyin": "xi\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "county"
+    },
+    {
+      "hanzi": "\u9879",
+      "id": "ASCS4gJfC5",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "item"
+    },
+    {
+      "hanzi": "\u9879",
+      "id": "ASCS4gJfC5",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "item"
+    },
+    {
+      "hanzi": "\u75d2",
+      "id": "LQCRfP53iy",
+      "pinyin": "y\u01ceng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "itchy"
+    },
+    {
+      "hanzi": "\u75d2",
+      "id": "LQCRfP53iy",
+      "pinyin": "y\u01ceng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "itchy"
+    },
+    {
+      "hanzi": "\u8170",
+      "id": "4zrj19KIX2",
+      "pinyin": "y\u0101o",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "waist"
+    },
+    {
+      "hanzi": "\u6447",
+      "id": "sz3stIrZix",
+      "pinyin": "y\u00e1o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shake, wave"
+    },
+    {
+      "hanzi": "\u54ac",
+      "id": "J2YNKJae3K",
+      "pinyin": "y\u01ceo",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "bite"
+    },
+    {
+      "hanzi": "\u4e59",
+      "id": "ttzlWrfk7u",
+      "pinyin": "y\u01d0",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "second"
+    },
+    {
+      "hanzi": "\u4ebf",
+      "id": "BoplFwumZw",
+      "pinyin": "y\u00ec",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "a hundred million"
+    },
+    {
+      "hanzi": "\u94f6",
+      "id": "bMbHnBXtCG",
+      "pinyin": "y\u00edn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "silver"
+    },
+    {
+      "hanzi": "\u652f",
+      "id": "lCAKl7LIic",
+      "pinyin": "zh\u012b",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(long/thin object)"
+    },
+    {
+      "hanzi": "\u76f4",
+      "id": "FvZOiPeNZ5",
+      "pinyin": "zh\u00ed",
+      "speechPart": [
+        "adj",
+        "adv"
+      ],
+      "definition": "straight; directly"
+    },
+    {
+      "hanzi": "\u7d2b",
+      "id": "D66u09fMo0",
+      "pinyin": "z\u01d0",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "purple"
+    },
+    {
+      "hanzi": "\u81c2",
+      "id": "q2yEBhxb2h",
+      "pinyin": "b\u00ec",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "arm"
+    },
+    {
+      "hanzi": "\u6241",
+      "id": "YL4MgFIESK",
+      "pinyin": "bi\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "flat"
+    },
+    {
+      "hanzi": "\u6241",
+      "id": "YL4MgFIESK",
+      "pinyin": "bi\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "flat"
+    },
+    {
+      "hanzi": "\u523a",
+      "id": "PIaO8AQF3R",
+      "pinyin": "c\u00ec",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "thorn; sting"
+    },
+    {
+      "hanzi": "\u57ab",
+      "id": "h18ylTE1IH",
+      "pinyin": "di\u00e0n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "pad, cushion; fill up, insert"
+    },
+    {
+      "hanzi": "\u57ab",
+      "id": "h18ylTE1IH",
+      "pinyin": "di\u00e0n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "pad, cushion; fill up, insert"
+    },
+    {
+      "hanzi": "\u53fc",
+      "id": "0eRqP9V0Zf",
+      "pinyin": "di\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hold in the mouth"
+    },
+    {
+      "hanzi": "\u540a",
+      "id": "7ccE4YK0vz",
+      "pinyin": "di\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hang"
+    },
+    {
+      "hanzi": "\u714e",
+      "id": "Z4EvrGSu1F",
+      "pinyin": "ji\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "fry, decoct"
+    },
+    {
+      "hanzi": "\u714e",
+      "id": "Z4EvrGSu1F",
+      "pinyin": "ji\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "fry, decoct"
+    },
+    {
+      "hanzi": "\u62e3",
+      "id": "47XYHKHKFx",
+      "pinyin": "ji\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pick up, collect"
+    },
+    {
+      "hanzi": "\u62e3",
+      "id": "47XYHKHKFx",
+      "pinyin": "ji\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pick up, collect"
+    },
+    {
+      "hanzi": "\u5251",
+      "id": "IHatEdURoQ",
+      "pinyin": "ji\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "sword"
+    },
+    {
+      "hanzi": "\u5251",
+      "id": "IHatEdURoQ",
+      "pinyin": "ji\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "sword"
+    },
+    {
+      "hanzi": "\u6e85",
+      "id": "s8FOrVmnHh",
+      "pinyin": "ji\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "splash, spatter"
+    },
+    {
+      "hanzi": "\u6e85",
+      "id": "s8FOrVmnHh",
+      "pinyin": "ji\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "splash, spatter"
+    },
+    {
+      "hanzi": "\u6d46",
+      "id": "I0BlngfNaw",
+      "pinyin": "ji\u01ceng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "oar"
+    },
+    {
+      "hanzi": "\u6d46",
+      "id": "I0BlngfNaw",
+      "pinyin": "ji\u01ceng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "oar"
+    },
+    {
+      "hanzi": "\u7c92",
+      "id": "l5MDZnsJBJ",
+      "pinyin": "l\u00ec",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "grain; (used for grainlike things)"
+    },
+    {
+      "hanzi": "\u667e",
+      "id": "Qfcj68TTqa",
+      "pinyin": "li\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dry in the air"
+    },
+    {
+      "hanzi": "\u667e",
+      "id": "Qfcj68TTqa",
+      "pinyin": "li\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "dry in the air"
+    },
+    {
+      "hanzi": "\u6dcb",
+      "id": "HsH2J4ZLvr",
+      "pinyin": "l\u00edn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pour liquids, drench"
+    },
+    {
+      "hanzi": "\u772f",
+      "id": "TI5ZEDBBhd",
+      "pinyin": "m\u012b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "narrow one's eyes, keep one's eyes half closed"
+    },
+    {
+      "hanzi": "\u5288",
+      "id": "3cQlBJLdvx",
+      "pinyin": "p\u012b",
+      "speechPart": [
+        "prep",
+        "v"
+      ],
+      "definition": "right against (face/chest); split, chop"
+    },
+    {
+      "hanzi": "\u6390",
+      "id": "XPxTHrJU96",
+      "pinyin": "qi\u0101",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pinch, nip, grip"
+    },
+    {
+      "hanzi": "\u7275",
+      "id": "ehdcP3uoPc",
+      "pinyin": "qi\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "leap along, pull"
+    },
+    {
+      "hanzi": "\u7275",
+      "id": "ehdcP3uoPc",
+      "pinyin": "qi\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "leap along, pull"
+    },
+    {
+      "hanzi": "\u7fd8",
+      "id": "ZCBWGpNBZm",
+      "pinyin": "qi\u00e0o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stick up, turn upwards"
+    },
+    {
+      "hanzi": "\u62fe",
+      "id": "aHLCR3zdNP",
+      "pinyin": "sh\u00ed",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pick up (from the ground), collect"
+    },
+    {
+      "hanzi": "\u8214",
+      "id": "uFiO14a2wU",
+      "pinyin": "ti\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lick, lap"
+    },
+    {
+      "hanzi": "\u8214",
+      "id": "uFiO14a2wU",
+      "pinyin": "ti\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "lick, lap"
+    },
+    {
+      "hanzi": "\u6eaa",
+      "id": "2HHHUl3SB8",
+      "pinyin": "x\u012b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "brook"
+    },
+    {
+      "hanzi": "\u971e",
+      "id": "OWFGyQqqb0",
+      "pinyin": "xi\u00e1",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "rosy clouds"
+    },
+    {
+      "hanzi": "\u5f26",
+      "id": "fLn8TRWBIG",
+      "pinyin": "xi\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "string, crescent, spring of a clock"
+    },
+    {
+      "hanzi": "\u5f26",
+      "id": "fLn8TRWBIG",
+      "pinyin": "xi\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "string, crescent, spring of a clock"
+    },
+    {
+      "hanzi": "\u5acc",
+      "id": "PyNq7VREjh",
+      "pinyin": "xi\u00e1n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "grudge; dislike, complain"
+    },
+    {
+      "hanzi": "\u5acc",
+      "id": "PyNq7VREjh",
+      "pinyin": "xi\u00e1n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "grudge; dislike, complain"
+    },
+    {
+      "hanzi": "\u5df7",
+      "id": "yCOmiCuDzU",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "alley"
+    },
+    {
+      "hanzi": "\u5df7",
+      "id": "yCOmiCuDzU",
+      "pinyin": "xi\u00e0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "alley"
+    },
+    {
+      "hanzi": "\u524a",
+      "id": "pPThxJ0iMh",
+      "pinyin": "xi\u0101o",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "peel with a knief"
+    },
+    {
+      "hanzi": "\u4ea6",
+      "id": "R4J5Bxjv8C",
+      "pinyin": "y\u00ec",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "also, too"
+    },
+    {
+      "hanzi": "\u7ffc",
+      "id": "YUpMf3FGBJ",
+      "pinyin": "y\u00ec",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "wing"
+    },
+    {
+      "hanzi": "\u679d",
+      "id": "4pumFWYLbD",
+      "pinyin": "zh\u012b",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "branch; (used for flowers with stems intact)"
+    }
+  ],
+  "fifth": [
+    {
+      "hanzi": "\u90fd",
+      "id": "nIVg5uDD1a",
+      "pinyin": "d\u014du",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "all"
+    },
+    {
+      "hanzi": "\u72d7",
+      "id": "98mLRR4MD3",
+      "pinyin": "g\u01d2u",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "dog"
+    },
+    {
+      "hanzi": "\u4ece",
+      "id": "ajC6I5fdvg",
+      "pinyin": "c\u00f3ng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "from"
+    },
+    {
+      "hanzi": "\u61c2",
+      "id": "NUBMPqhqte",
+      "pinyin": "d\u01d2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "understand"
+    },
+    {
+      "hanzi": "\u7ea2",
+      "id": "lH45KALAzW",
+      "pinyin": "h\u00f3ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "red"
+    },
+    {
+      "hanzi": "\u9001",
+      "id": "ODdYA8GQdu",
+      "pinyin": "s\u00f2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "send, deliver, give (as gift)"
+    },
+    {
+      "hanzi": "\u8d70",
+      "id": "8XzsBWzvg0",
+      "pinyin": "z\u01d2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "walk, go"
+    },
+    {
+      "hanzi": "\u4e1c",
+      "id": "wTpDwIQNCD",
+      "pinyin": "d\u014dng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "east"
+    },
+    {
+      "hanzi": "\u51ac",
+      "id": "DJznIGeUhn",
+      "pinyin": "d\u014dng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "winter"
+    },
+    {
+      "hanzi": "\u53e3",
+      "id": "6lINfUG8Or",
+      "pinyin": "k\u01d2u",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "mouth"
+    },
+    {
+      "hanzi": "\u697c",
+      "id": "KnskSFnUDn",
+      "pinyin": "l\u00f3u",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "building; floor"
+    },
+    {
+      "hanzi": "\u7626",
+      "id": "6wYTJGbuK0",
+      "pinyin": "sh\u00f2u",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "thin"
+    },
+    {
+      "hanzi": "\u79cd",
+      "id": "aqaqp8uo4p",
+      "pinyin": "zh\u01d2ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "kind"
+    },
+    {
+      "hanzi": "\u591f",
+      "id": "mkaLM8GXS6",
+      "pinyin": "g\u00f2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "suffice, be enough"
+    },
+    {
+      "hanzi": "\u539a",
+      "id": "Q2RSHLo0aa",
+      "pinyin": "h\u00f2u",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "thick"
+    },
+    {
+      "hanzi": "\u7a7a",
+      "id": "UtcD9yXYWv",
+      "pinyin": "k\u014dng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "empty, hollow, vacant"
+    },
+    {
+      "hanzi": "\u5f04",
+      "id": "HqPYZKf4DI",
+      "pinyin": "n\u00f2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "play with, do, get"
+    },
+    {
+      "hanzi": "\u7834",
+      "id": "bAulIceFpq",
+      "pinyin": "p\u00f2",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "broken, damaged; break"
+    },
+    {
+      "hanzi": "\u6536",
+      "id": "NGQ5QxBM1I",
+      "pinyin": "sh\u014du",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "get something together, receive"
+    },
+    {
+      "hanzi": "\u91cd",
+      "id": "JXhvkWkvKx",
+      "pinyin": "zh\u00f2ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "heavy"
+    },
+    {
+      "hanzi": "\u51b2",
+      "id": "JJqbTqd9KX",
+      "pinyin": "ch\u014dng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rush, flush"
+    },
+    {
+      "hanzi": "\u4e11",
+      "id": "EbrVGOUFU9",
+      "pinyin": "ch\u01d2u",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "ugly, shameful"
+    },
+    {
+      "hanzi": "\u81ed",
+      "id": "yqzO8J4vZu",
+      "pinyin": "ch\u00f2u",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "smelly, stinking, odious"
+    },
+    {
+      "hanzi": "\u6d1e",
+      "id": "bK5ZiojOd3",
+      "pinyin": "d\u00f2ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "cavity, hole"
+    },
+    {
+      "hanzi": "\u9017",
+      "id": "4g2bUVf0A7",
+      "pinyin": "d\u00f2u",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "funny; tease"
+    },
+    {
+      "hanzi": "\u51bb",
+      "id": "fikMCVvchz",
+      "pinyin": "d\u00f2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "freeze"
+    },
+    {
+      "hanzi": "\u6f0f",
+      "id": "7xMGP6n6yC",
+      "pinyin": "l\u00f2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "leak, leave out"
+    },
+    {
+      "hanzi": "\u9f99",
+      "id": "vxL9cJIfbL",
+      "pinyin": "l\u00f3ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "dragon"
+    },
+    {
+      "hanzi": "\u6478",
+      "id": "EN78seI8yw",
+      "pinyin": "m\u014d",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "touch, feel"
+    },
+    {
+      "hanzi": "\u67d0",
+      "id": "7BHlQMxrkO",
+      "pinyin": "m\u01d2u",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "some, certain"
+    },
+    {
+      "hanzi": "\u6d53",
+      "id": "ETF3v6D1Zp",
+      "pinyin": "n\u00f3ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "dense, strong"
+    },
+    {
+      "hanzi": "\u9996",
+      "id": "eZu9VQmzpg",
+      "pinyin": "sh\u01d2u",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for song and poem)"
+    },
+    {
+      "hanzi": "\u5077",
+      "id": "eZPAMnM6ps",
+      "pinyin": "t\u014du",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "steal"
+    },
+    {
+      "hanzi": "\u62e8",
+      "id": "xe78ioeYHc",
+      "pinyin": "b\u014d",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "move or adjust (with the hand or foot)"
+    },
+    {
+      "hanzi": "\u4e1b",
+      "id": "CAdRh1AOCr",
+      "pinyin": "c\u00f3ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "a clump of"
+    },
+    {
+      "hanzi": "\u680b",
+      "id": "R7bGYb25me",
+      "pinyin": "d\u00f2ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for housing)"
+    },
+    {
+      "hanzi": "\u515c",
+      "id": "yiUdFpVOQc",
+      "pinyin": "d\u014du",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "pocket; move around, take upon oneself"
+    },
+    {
+      "hanzi": "\u70d8",
+      "id": "ewdT1Ja3FN",
+      "pinyin": "h\u014dng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "bake, dry or warm by heat"
+    },
+    {
+      "hanzi": "\u54c4",
+      "id": "k9LUTnkSUM",
+      "pinyin": "h\u01d2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "fool, humbug, coax"
+    },
+    {
+      "hanzi": "\u543c",
+      "id": "EpUu2j4yei",
+      "pinyin": "h\u01d2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roar, make great noise"
+    },
+    {
+      "hanzi": "\u5b54",
+      "id": "TdpOMBQxMm",
+      "pinyin": "k\u01d2ng",
+      "speechPart": [
+        "m",
+        "n"
+      ],
+      "definition": "(used for cave-dwellings/oil wells); hole"
+    },
+    {
+      "hanzi": "\u6263",
+      "id": "MTYC8A89QC",
+      "pinyin": "k\u00f2u",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "button; detain, deduct"
+    },
+    {
+      "hanzi": "\u6402",
+      "id": "6OnR88cCJV",
+      "pinyin": "l\u01d2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "hug, embrace"
+    },
+    {
+      "hanzi": "\u819c",
+      "id": "psPcF3PbnZ",
+      "pinyin": "m\u00f3",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "membrane"
+    },
+    {
+      "hanzi": "\u54e6",
+      "id": "Cp6Aut9pgf",
+      "pinyin": "\u00f2",
+      "speechPart": [
+        "int"
+      ],
+      "definition": "oh (expressing realisation/understanding)"
+    },
+    {
+      "hanzi": "\u5761",
+      "id": "VzyU6rTl7l",
+      "pinyin": "p\u014d",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "slope"
+    },
+    {
+      "hanzi": "\u6cfc",
+      "id": "Je3o3484en",
+      "pinyin": "p\u014d",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "sprinkle, splash, spill"
+    },
+    {
+      "hanzi": "\u9887",
+      "id": "pLKC7xRDo7",
+      "pinyin": "p\u014d",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "quite, rather, considerably"
+    },
+    {
+      "hanzi": "\u63c9",
+      "id": "g2NGNTvidU",
+      "pinyin": "r\u00f3u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rub and knead with the hands"
+    },
+    {
+      "hanzi": "\u8038",
+      "id": "pvgWUn0Sby",
+      "pinyin": "s\u01d2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "soar high, terrify"
+    },
+    {
+      "hanzi": "\u8258",
+      "id": "CdEwil2VBT",
+      "pinyin": "s\u014du",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for boat or ship)"
+    },
+    {
+      "hanzi": "\u94dc",
+      "id": "urTEOCE87k",
+      "pinyin": "t\u00f3ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "copper"
+    },
+    {
+      "hanzi": "\u821f",
+      "id": "TB1GsV69OD",
+      "pinyin": "zh\u014du",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "boat"
+    },
+    {
+      "hanzi": "\u5dde",
+      "id": "WdykR1hf2g",
+      "pinyin": "zh\u014du",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "autonomous prefecture, state"
+    },
+    {
+      "hanzi": "\u7ca5",
+      "id": "j34ghilnFX",
+      "pinyin": "zh\u014du",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "porridge"
+    },
+    {
+      "hanzi": "\u63cd",
+      "id": "JpeGPbBIkA",
+      "pinyin": "z\u00f2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "beat"
+    }
+  ],
+  "fouth": [
+    {
+      "hanzi": "\u4e5d",
+      "id": "RkI7SsvbfW",
+      "pinyin": "ji\u01d4",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "nine"
+    },
+    {
+      "hanzi": "\u516d",
+      "id": "59FReBPibs",
+      "pinyin": "li\u00f9",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "six"
+    },
+    {
+      "hanzi": "\u8bf7",
+      "id": "JrUA8Dy1cE",
+      "pinyin": "q\u01d0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "please"
+    },
+    {
+      "hanzi": "\u8bf7",
+      "id": "JrUA8Dy1cE",
+      "pinyin": "q\u01d0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "please"
+    },
+    {
+      "hanzi": "\u542c",
+      "id": "oirS3zrp8k",
+      "pinyin": "t\u012bng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "listen"
+    },
+    {
+      "hanzi": "\u542c",
+      "id": "oirS3zrp8k",
+      "pinyin": "t\u012bng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "listen"
+    },
+    {
+      "hanzi": "\u4e9b",
+      "id": "4jmY2Z3wpN",
+      "pinyin": "xi\u0113",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "some"
+    },
+    {
+      "hanzi": "\u5199",
+      "id": "OukRGjSwU5",
+      "pinyin": "xi\u011b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "write"
+    },
+    {
+      "hanzi": "\u6709",
+      "id": "I0E9cnawkN",
+      "pinyin": "y\u01d2u",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "have"
+    },
+    {
+      "hanzi": "\u522b",
+      "id": "Icl9tEBryy",
+      "pinyin": "bi\u00e9",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "don't"
+    },
+    {
+      "hanzi": "\u8fdb",
+      "id": "yX3BVVpuMa",
+      "pinyin": "j\u00ecn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "enter"
+    },
+    {
+      "hanzi": "\u8fd1",
+      "id": "TUOT2nYS9p",
+      "pinyin": "j\u00ecn",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "near, close"
+    },
+    {
+      "hanzi": "\u5c31",
+      "id": "PXKWiPVB85",
+      "pinyin": "ji\u00f9",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "already, at once"
+    },
+    {
+      "hanzi": "\u96f6",
+      "id": "soNB0BM7XG",
+      "pinyin": "l\u00edng",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "zero"
+    },
+    {
+      "hanzi": "\u96f6",
+      "id": "soNB0BM7XG",
+      "pinyin": "l\u00edng",
+      "speechPart": [
+        "num"
+      ],
+      "definition": "zero"
+    },
+    {
+      "hanzi": "\u60a8",
+      "id": "QTSFPUFLzz",
+      "pinyin": "n\u00edn",
+      "speechPart": [
+        "pron"
+      ],
+      "definition": "you (formal)"
+    },
+    {
+      "hanzi": "\u6674",
+      "id": "1mgpaHXwwm",
+      "pinyin": "q\u00edng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sunny"
+    },
+    {
+      "hanzi": "\u6674",
+      "id": "1mgpaHXwwm",
+      "pinyin": "q\u00edng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sunny"
+    },
+    {
+      "hanzi": "\u65b0",
+      "id": "Aiq3Wars41",
+      "pinyin": "x\u012bn",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "new"
+    },
+    {
+      "hanzi": "\u59d3",
+      "id": "FC5tu3LChg",
+      "pinyin": "x\u00ecng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "family name; be surnamed"
+    },
+    {
+      "hanzi": "\u59d3",
+      "id": "FC5tu3LChg",
+      "pinyin": "x\u00ecng",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "family name; be surnamed"
+    },
+    {
+      "hanzi": "\u4e5f",
+      "id": "sCLglqBul7",
+      "pinyin": "y\u011b",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "also, too"
+    },
+    {
+      "hanzi": "\u9634",
+      "id": "yNRoP3iGOc",
+      "pinyin": "y\u012bn",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "overcast, cloudy"
+    },
+    {
+      "hanzi": "\u63a5",
+      "id": "hxcEsfB8Bk",
+      "pinyin": "ji\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "meet"
+    },
+    {
+      "hanzi": "\u501f",
+      "id": "wpBqF80xHS",
+      "pinyin": "ji\u00e8",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "borrow"
+    },
+    {
+      "hanzi": "\u4e45",
+      "id": "zHVSCuLNtg",
+      "pinyin": "ji\u01d4",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "for a long time"
+    },
+    {
+      "hanzi": "\u65e7",
+      "id": "TRGFUN4B52",
+      "pinyin": "ji\u00f9",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "old, used"
+    },
+    {
+      "hanzi": "\u79cb",
+      "id": "ke769zngsK",
+      "pinyin": "qi\u016b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "autumn"
+    },
+    {
+      "hanzi": "\u7528",
+      "id": "VHxyWHzkgw",
+      "pinyin": "y\u00f2ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "use"
+    },
+    {
+      "hanzi": "\u53c8",
+      "id": "GvE8G7bOqo",
+      "pinyin": "y\u00f2u",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "again"
+    },
+    {
+      "hanzi": "\u4e22",
+      "id": "VSnkOkZWX7",
+      "pinyin": "di\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "throw, lose"
+    },
+    {
+      "hanzi": "\u8282",
+      "id": "ucybmfuCBe",
+      "pinyin": "ji\u00e9",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "festival; section"
+    },
+    {
+      "hanzi": "\u7559",
+      "id": "rXGeEbZ31X",
+      "pinyin": "li\u00fa",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stay, remain, keep"
+    },
+    {
+      "hanzi": "\u8f7b",
+      "id": "q2B7y0i3R6",
+      "pinyin": "q\u012bng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "light, small in degree"
+    },
+    {
+      "hanzi": "\u8f7b",
+      "id": "q2B7y0i3R6",
+      "pinyin": "q\u012bng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "light, small in degree"
+    },
+    {
+      "hanzi": "\u7a77",
+      "id": "sU2gvmjOnx",
+      "pinyin": "qi\u00f3ng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "poor"
+    },
+    {
+      "hanzi": "\u505c",
+      "id": "o4sb7vqShe",
+      "pinyin": "t\u00edng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stop, park, pause"
+    },
+    {
+      "hanzi": "\u505c",
+      "id": "o4sb7vqShe",
+      "pinyin": "t\u00edng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stop, park, pause"
+    },
+    {
+      "hanzi": "\u633a",
+      "id": "2jU9C38EbW",
+      "pinyin": "t\u01d0ng",
+      "speechPart": [
+        "v",
+        "adv"
+      ],
+      "definition": "stand, hold out; very, quite, rather"
+    },
+    {
+      "hanzi": "\u633a",
+      "id": "2jU9C38EbW",
+      "pinyin": "t\u01d0ng",
+      "speechPart": [
+        "v",
+        "adv"
+      ],
+      "definition": "stand, hold out; very, quite, rather"
+    },
+    {
+      "hanzi": "\u884c",
+      "id": "kfMjA2LZ9s",
+      "pinyin": "x\u00edng",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "capable; be all right, will do"
+    },
+    {
+      "hanzi": "\u884c",
+      "id": "kfMjA2LZ9s",
+      "pinyin": "x\u00edng",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "capable; be all right, will do"
+    },
+    {
+      "hanzi": "\u9192",
+      "id": "sTVqtmpWmW",
+      "pinyin": "x\u01d0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wake up, regain consciousness"
+    },
+    {
+      "hanzi": "\u9192",
+      "id": "sTVqtmpWmW",
+      "pinyin": "x\u01d0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wake up, regain consciousness"
+    },
+    {
+      "hanzi": "\u9875",
+      "id": "UGl2N6mlVv",
+      "pinyin": "y\u00e8",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "page, leaf, sheet"
+    },
+    {
+      "hanzi": "\u8d62",
+      "id": "2E0GSKuL69",
+      "pinyin": "y\u00edng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "win"
+    },
+    {
+      "hanzi": "\u8d62",
+      "id": "2E0GSKuL69",
+      "pinyin": "y\u00edng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "win"
+    },
+    {
+      "hanzi": "\u7531",
+      "id": "vnEMn3Xd7U",
+      "pinyin": "y\u00f3u",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "(be done) by , from"
+    },
+    {
+      "hanzi": "\u9876",
+      "id": "aMG9QvQYD9",
+      "pinyin": "d\u01d0ng",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "top, crown; (used for something that has a top)"
+    },
+    {
+      "hanzi": "\u9876",
+      "id": "aMG9QvQYD9",
+      "pinyin": "d\u01d0ng",
+      "speechPart": [
+        "n",
+        "m"
+      ],
+      "definition": "top, crown; (used for something that has a top)"
+    },
+    {
+      "hanzi": "\u6212",
+      "id": "aOB2OjgGUo",
+      "pinyin": "ji\u00e8",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "give up, abstain from"
+    },
+    {
+      "hanzi": "\u5c4a",
+      "id": "jKNlXmscdj",
+      "pinyin": "ji\u00e8",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "session, class"
+    },
+    {
+      "hanzi": "\u6551",
+      "id": "w7kFqzjKR8",
+      "pinyin": "ji\u00f9",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "save, rescue"
+    },
+    {
+      "hanzi": "\u94c3",
+      "id": "6cdWZspCXc",
+      "pinyin": "l\u00edng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bell"
+    },
+    {
+      "hanzi": "\u94c3",
+      "id": "6cdWZspCXc",
+      "pinyin": "l\u00edng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "bell"
+    },
+    {
+      "hanzi": "\u5e73",
+      "id": "oH9awkNFbf",
+      "pinyin": "p\u00edng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "flat, smooth, even"
+    },
+    {
+      "hanzi": "\u5e73",
+      "id": "oH9awkNFbf",
+      "pinyin": "p\u00edng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "flat, smooth, even"
+    },
+    {
+      "hanzi": "\u51ed",
+      "id": "Kvfo7yE1zA",
+      "pinyin": "p\u00edng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "on the basis of"
+    },
+    {
+      "hanzi": "\u51ed",
+      "id": "Kvfo7yE1zA",
+      "pinyin": "p\u00edng",
+      "speechPart": [
+        "prep"
+      ],
+      "definition": "on the basis of"
+    },
+    {
+      "hanzi": "\u5207",
+      "id": "22TcrumDmP",
+      "pinyin": "qi\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cut, slice"
+    },
+    {
+      "hanzi": "\u9752",
+      "id": "5RCaAShsIo",
+      "pinyin": "q\u012bng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "blue, dark blue, green"
+    },
+    {
+      "hanzi": "\u9752",
+      "id": "5RCaAShsIo",
+      "pinyin": "q\u012bng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "blue, dark blue, green"
+    },
+    {
+      "hanzi": "\u6b47",
+      "id": "64ER4oXaML",
+      "pinyin": "xi\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "have a rest"
+    },
+    {
+      "hanzi": "\u659c",
+      "id": "hDJ7ko3rdb",
+      "pinyin": "xi\u00e9",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "inclined, tilted; tilt"
+    },
+    {
+      "hanzi": "\u80f8",
+      "id": "auwCeBVqRj",
+      "pinyin": "xi\u014dng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "chest, thorax"
+    },
+    {
+      "hanzi": "\u591c",
+      "id": "2SepMh2XL6",
+      "pinyin": "y\u00e8",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "night"
+    },
+    {
+      "hanzi": "\u94f6",
+      "id": "bMbHnBXtCG",
+      "pinyin": "y\u00edn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "silver"
+    },
+    {
+      "hanzi": "\u786c",
+      "id": "VLyIrN4Z10",
+      "pinyin": "y\u00ecng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "hard"
+    },
+    {
+      "hanzi": "\u786c",
+      "id": "VLyIrN4Z10",
+      "pinyin": "y\u00ecng",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "hard"
+    },
+    {
+      "hanzi": "\u618b",
+      "id": "WHzZlWVean",
+      "pinyin": "bi\u0113",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "oppressed; hold back"
+    },
+    {
+      "hanzi": "\u4e19",
+      "id": "HcYlXR3Vgv",
+      "pinyin": "b\u01d0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "third"
+    },
+    {
+      "hanzi": "\u4e19",
+      "id": "HcYlXR3Vgv",
+      "pinyin": "b\u01d0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "third"
+    },
+    {
+      "hanzi": "\u8dcc",
+      "id": "Orwp1G62LV",
+      "pinyin": "di\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "drop, fall"
+    },
+    {
+      "hanzi": "\u4e01",
+      "id": "E0Sy47QKED",
+      "pinyin": "d\u012bng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "fourth, cube"
+    },
+    {
+      "hanzi": "\u4e01",
+      "id": "E0Sy47QKED",
+      "pinyin": "d\u012bng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "fourth, cube"
+    },
+    {
+      "hanzi": "\u76ef",
+      "id": "WfYE7RgRzt",
+      "pinyin": "d\u012bng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stare, gaze"
+    },
+    {
+      "hanzi": "\u76ef",
+      "id": "WfYE7RgRzt",
+      "pinyin": "d\u012bng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "stare, gaze"
+    },
+    {
+      "hanzi": "\u7686",
+      "id": "ThdpebfiPR",
+      "pinyin": "ji\u0113",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "all, each and every"
+    },
+    {
+      "hanzi": "\u830e",
+      "id": "CCuKrrHS9H",
+      "pinyin": "j\u012bng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "stem, stalk"
+    },
+    {
+      "hanzi": "\u830e",
+      "id": "CCuKrrHS9H",
+      "pinyin": "j\u012bng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "stem, stalk"
+    },
+    {
+      "hanzi": "\u4e95",
+      "id": "HQ0ZVERxGO",
+      "pinyin": "j\u01d0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "well"
+    },
+    {
+      "hanzi": "\u4e95",
+      "id": "HQ0ZVERxGO",
+      "pinyin": "j\u01d0ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "well"
+    },
+    {
+      "hanzi": "\u6dcb",
+      "id": "HsH2J4ZLvr",
+      "pinyin": "l\u00edn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pour liquids, drench"
+    },
+    {
+      "hanzi": "\u6e9c",
+      "id": "uoiKZWdHmZ",
+      "pinyin": "li\u016b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "sneak away, slip off"
+    },
+    {
+      "hanzi": "\u634f",
+      "id": "yCT2dVUbFF",
+      "pinyin": "ni\u0113",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "pinch, knead, mould, fabricate"
+    },
+    {
+      "hanzi": "\u62e7",
+      "id": "tqmKaA6hQC",
+      "pinyin": "n\u01d0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "screw, twist"
+    },
+    {
+      "hanzi": "\u62e7",
+      "id": "tqmKaA6hQC",
+      "pinyin": "n\u01d0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "screw, twist"
+    },
+    {
+      "hanzi": "\u6487",
+      "id": "7AS8clbRqh",
+      "pinyin": "pi\u011b",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "cast aside"
+    },
+    {
+      "hanzi": "\u5c51",
+      "id": "79JMwP59uQ",
+      "pinyin": "xi\u00e8",
+      "speechPart": [
+        "n",
+        "adj",
+        "v"
+      ],
+      "definition": "crumbs; trifling; consider worthwhile"
+    },
+    {
+      "hanzi": "\u8165",
+      "id": "7X65XFTiuL",
+      "pinyin": "x\u012bng",
+      "speechPart": [
+        "adj",
+        "n"
+      ],
+      "definition": "fishy; fishy smell, raw meat/fish"
+    },
+    {
+      "hanzi": "\u8165",
+      "id": "7X65XFTiuL",
+      "pinyin": "x\u012bng",
+      "speechPart": [
+        "adj",
+        "n"
+      ],
+      "definition": "fishy; fishy smell, raw meat/fish"
+    },
+    {
+      "hanzi": "\u7ee3",
+      "id": "jd3NP20cuR",
+      "pinyin": "xi\u00f9",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "embroider"
+    }
+  ],
+  "seven": [
+    {
+      "hanzi": "\u6708",
+      "id": "phBUi51ZoA",
+      "pinyin": "yu\u00e8",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "month"
+    },
+    {
+      "hanzi": "\u7a7f",
+      "id": "bAWNZQwuGY",
+      "pinyin": "chu\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "wear"
+    },
+    {
+      "hanzi": "\u5973",
+      "id": "TXW1lLnCzY",
+      "pinyin": "n\u01da",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "woman, female"
+    },
+    {
+      "hanzi": "\u96ea",
+      "id": "Hm2qdhWjN0",
+      "pinyin": "xu\u011b",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "snow"
+    },
+    {
+      "hanzi": "\u9c7c",
+      "id": "ba4Qwl4027",
+      "pinyin": "y\u00fa",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "fish"
+    },
+    {
+      "hanzi": "\u8fdc",
+      "id": "EbrrTl9R4p",
+      "pinyin": "yu\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "far, distant"
+    },
+    {
+      "hanzi": "\u8239",
+      "id": "QXi9ylvcYV",
+      "pinyin": "chu\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "boat"
+    },
+    {
+      "hanzi": "\u6625",
+      "id": "iPjpoBIitl",
+      "pinyin": "ch\u016bn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "spring"
+    },
+    {
+      "hanzi": "\u77ed",
+      "id": "SbaIExDLCV",
+      "pinyin": "du\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "short"
+    },
+    {
+      "hanzi": "\u6bb5",
+      "id": "GWsGhQY6nc",
+      "pinyin": "du\u00e0n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "paragraph"
+    },
+    {
+      "hanzi": "\u5173",
+      "id": "tyz5FsnvdY",
+      "pinyin": "gu\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "close, turn off"
+    },
+    {
+      "hanzi": "\u8fd8",
+      "id": "N4NGDKZ2cJ",
+      "pinyin": "hu\u00e1n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "return"
+    },
+    {
+      "hanzi": "\u6362",
+      "id": "yoeMwsKipo",
+      "pinyin": "hu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "change, exchange"
+    },
+    {
+      "hanzi": "\u7eff",
+      "id": "UEGzm8ZcMn",
+      "pinyin": "l\u01dc",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "green"
+    },
+    {
+      "hanzi": "\u53cc",
+      "id": "3DRkwWdeSN",
+      "pinyin": "shu\u0101ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "pair"
+    },
+    {
+      "hanzi": "\u5143",
+      "id": "Wy0NL8yHTH",
+      "pinyin": "yu\u00e1n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(for money)"
+    },
+    {
+      "hanzi": "\u8d8a",
+      "id": "KZ9ev5ZIws",
+      "pinyin": "yu\u00e8",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "the more\u2026 the more\u2026"
+    },
+    {
+      "hanzi": "\u5b58",
+      "id": "8GA1ph2FDw",
+      "pinyin": "c\u00fan",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "deposit, store up"
+    },
+    {
+      "hanzi": "\u5149",
+      "id": "WOy5lxbJeS",
+      "pinyin": "gu\u0101ng",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "merely, only; used up"
+    },
+    {
+      "hanzi": "\u901b",
+      "id": "0TUyM1Gdp3",
+      "pinyin": "gu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roam, stroll, ramble"
+    },
+    {
+      "hanzi": "\u56f0",
+      "id": "K8a64eKIym",
+      "pinyin": "k\u00f9n",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "sleepy; be stranded"
+    },
+    {
+      "hanzi": "\u4e71",
+      "id": "PNxmUl0AxC",
+      "pinyin": "lu\u00e0n",
+      "speechPart": [
+        "adv",
+        "adj"
+      ],
+      "definition": "arbitrarily; upset, disorderly"
+    },
+    {
+      "hanzi": "\u5374",
+      "id": "cyVEdxBBlZ",
+      "pinyin": "qu\u00e8",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "but, yet"
+    },
+    {
+      "hanzi": "\u9178",
+      "id": "63p0Wwxq0L",
+      "pinyin": "su\u0101n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "sour"
+    },
+    {
+      "hanzi": "\u4e0e",
+      "id": "A52sEW1sNx",
+      "pinyin": "y\u01d4",
+      "speechPart": [
+        "conj",
+        "prep"
+      ],
+      "definition": "and; with"
+    },
+    {
+      "hanzi": "\u4e91",
+      "id": "UMRyWJiYjm",
+      "pinyin": "y\u00fan",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "cloud"
+    },
+    {
+      "hanzi": "\u8f6c",
+      "id": "hhi9H6wStZ",
+      "pinyin": "zhu\u01cen",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shift, turn, change"
+    },
+    {
+      "hanzi": "\u8d5a",
+      "id": "WhAke74NKH",
+      "pinyin": "zhu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "make a profit, gain"
+    },
+    {
+      "hanzi": "\u95ef",
+      "id": "veqFKBioUF",
+      "pinyin": "chu\u01ceng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "rush, temper onself"
+    },
+    {
+      "hanzi": "\u65ad",
+      "id": "lU6uzBaV8G",
+      "pinyin": "du\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "break, cut off"
+    },
+    {
+      "hanzi": "\u5428",
+      "id": "bPasIgSRAM",
+      "pinyin": "d\u016bn",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "ton"
+    },
+    {
+      "hanzi": "\u987f",
+      "id": "4l42SoLGor",
+      "pinyin": "d\u00f9n",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "time"
+    },
+    {
+      "hanzi": "\u8e72",
+      "id": "mSNtgM7KGX",
+      "pinyin": "d\u016bn",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "squat, crounch"
+    },
+    {
+      "hanzi": "\u5b98",
+      "id": "NGnJbExtsU",
+      "pinyin": "gu\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "government official, official"
+    },
+    {
+      "hanzi": "\u6eda",
+      "id": "3D3bM00onQ",
+      "pinyin": "g\u01d4n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "roll, get away"
+    },
+    {
+      "hanzi": "\u6350",
+      "id": "F3mELuDTTw",
+      "pinyin": "ju\u0101n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "donate"
+    },
+    {
+      "hanzi": "\u5bbd",
+      "id": "JEfU43dBBh",
+      "pinyin": "ku\u0101n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "wide, broad"
+    },
+    {
+      "hanzi": "\u5708",
+      "id": "8vpZZKR7J3",
+      "pinyin": "qu\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "circle; mark with a circle, encircle"
+    },
+    {
+      "hanzi": "\u529d",
+      "id": "1WU27aIyTf",
+      "pinyin": "qu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "try to persuade, advise"
+    },
+    {
+      "hanzi": "\u7fa4",
+      "id": "gllsUUZE3b",
+      "pinyin": "q\u00fan",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "group, flock, crowd"
+    },
+    {
+      "hanzi": "\u8f6f",
+      "id": "BEuSfJ8Dcn",
+      "pinyin": "ru\u01cen",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "soft"
+    },
+    {
+      "hanzi": "\u56e2",
+      "id": "SFOXkpKBu1",
+      "pinyin": "tu\u00e1n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "group, shaped like a ball"
+    },
+    {
+      "hanzi": "\u8840",
+      "id": "zBz8Ljjvk1",
+      "pinyin": "xu\u00e8",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "blood"
+    },
+    {
+      "hanzi": "\u5706",
+      "id": "Qhtvf6Gk3d",
+      "pinyin": "yu\u00e1n",
+      "speechPart": [
+        "adj"
+      ],
+      "definition": "round, circular"
+    },
+    {
+      "hanzi": "\u6655",
+      "id": "ADYp53L4vI",
+      "pinyin": "y\u016bn",
+      "speechPart": [
+        "adj",
+        "v"
+      ],
+      "definition": "dizzy; faint"
+    },
+    {
+      "hanzi": "\u88c5",
+      "id": "qd6q1uWTeo",
+      "pinyin": "zhu\u0101ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "install, pretend"
+    },
+    {
+      "hanzi": "\u649e",
+      "id": "j1ZD7xz1fW",
+      "pinyin": "zhu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "bump against, collide"
+    },
+    {
+      "hanzi": "\u4e32",
+      "id": "OY5NEq9ULr",
+      "pinyin": "chu\u00e0n",
+      "speechPart": [
+        "m",
+        "v",
+        "n"
+      ],
+      "definition": "string; string together; string of things"
+    },
+    {
+      "hanzi": "\u7a9c",
+      "id": "f5DktUOsp9",
+      "pinyin": "cu\u00e0n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "flee, make alterations in wording"
+    },
+    {
+      "hanzi": "\u7aef",
+      "id": "GKEAZkurlx",
+      "pinyin": "du\u0101n",
+      "speechPart": [
+        "n",
+        "v"
+      ],
+      "definition": "end, extremity, beginning; hold something level with both hands, carry"
+    },
+    {
+      "hanzi": "\u7f50",
+      "id": "57QZsh2Wvo",
+      "pinyin": "gu\u00e0n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "jar, pot, can"
+    },
+    {
+      "hanzi": "\u6643",
+      "id": "9mIgoJ6gHn",
+      "pinyin": "hu\u00e0ng",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "shake, dazzle"
+    },
+    {
+      "hanzi": "\u8364",
+      "id": "STTii4OckE",
+      "pinyin": "h\u016bn",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "meat or fish dishes"
+    },
+    {
+      "hanzi": "\u5377",
+      "id": "FtZJD0WxGi",
+      "pinyin": "ju\u01cen",
+      "speechPart": [
+        "m",
+        "v"
+      ],
+      "definition": "roll; roll up, sweep along"
+    },
+    {
+      "hanzi": "\u7b50",
+      "id": "zT1o7W7HYp",
+      "pinyin": "ku\u0101ng",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "basket"
+    },
+    {
+      "hanzi": "\u72ac",
+      "id": "vRAKw1D8Lx",
+      "pinyin": "qu\u01cen",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "dog"
+    },
+    {
+      "hanzi": "\u7638",
+      "id": "qCYoOyn290",
+      "pinyin": "qu\u00e9",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "be lame, be crippled"
+    },
+    {
+      "hanzi": "\u7389",
+      "id": "qM3fY6SG7C",
+      "pinyin": "y\u00f9",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "jade"
+    },
+    {
+      "hanzi": "\u6108",
+      "id": "7vdWt25YqB",
+      "pinyin": "y\u00f9",
+      "speechPart": [
+        "adv"
+      ],
+      "definition": "more and more, the more \u2026 the more \u2026"
+    },
+    {
+      "hanzi": "\u71a8",
+      "id": "BrUOuZSV74",
+      "pinyin": "y\u00f9n",
+      "speechPart": [
+        "v"
+      ],
+      "definition": "iron, press"
+    },
+    {
+      "hanzi": "\u7816",
+      "id": "PEegqWOGbu",
+      "pinyin": "zhu\u0101n",
+      "speechPart": [
+        "n"
+      ],
+      "definition": "brick"
+    },
+    {
+      "hanzi": "\u5e62",
+      "id": "RvNVmRrWqg",
+      "pinyin": "zhu\u00e0ng",
+      "speechPart": [
+        "m"
+      ],
+      "definition": "(used for houses or buildings)"
+    }
+  ]
+}
