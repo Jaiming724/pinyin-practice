@@ -3,8 +3,9 @@ import React, {useEffect, useRef, useState} from 'react';
 import FlashCard from "@/app/components/FlashCard";
 import {getAudioLink, getRandomQuestion} from "../util/AudioService"
 import {ToneSelector} from "@/app/components/ToneSelector";
+import AnswerTracker from "@/app/components/AnswerTracker";
 
-function QuizCard(props) {
+function QuizCard({group}) {
 
 
     const [showNextQuestion, setNextQuestion] = useState(false);
@@ -15,7 +16,7 @@ function QuizCard(props) {
     const wrongRef = useRef(0);
 
     function getNextQuestion() {
-        let data = (getRandomQuestion("first"))
+        let data = (getRandomQuestion(group))
         setQuestion(data["hanzi"])
         setAnswer(data["pinyin"])
         setID(data["id"])
@@ -23,23 +24,22 @@ function QuizCard(props) {
     }
 
     useEffect(() => {
-        let data = (getRandomQuestion("first"))
+        let data = (getRandomQuestion(group))
         setQuestion(data["hanzi"])
         setAnswer(data["pinyin"])
         setID(data["id"])
         setNextQuestion(false)
     }, [])
 
-    return (
-        <div>
-            <div className="flex flex-col">
-                <h1>Correct: {correctRef.current}</h1>
-                <h1>Wrong: {wrongRef.current}</h1>
+    return (<div className="flex flex-col mx-auto">
 
-            </div>
-            <FlashCard q={question} a={answer} audio_link={getAudioLink(id)} shouldFlip={showNextQuestion} setShouldFlip={setNextQuestion} getNextQuestion={getNextQuestion} wrongRef={wrongRef} correctRef={correctRef}></FlashCard>
-        </div>
-    );
+        <FlashCard q={question}
+                   a={answer} audio_link={getAudioLink(id)} shouldFlip={showNextQuestion}
+                   setShouldFlip={setNextQuestion} getNextQuestion={getNextQuestion} wrongRef={wrongRef}
+                   correctRef={correctRef}></FlashCard>
+        <AnswerTracker correctRef={correctRef} wrongRef={wrongRef}></AnswerTracker>
+
+    </div>);
 }
 
 export default QuizCard;
