@@ -9,34 +9,28 @@ function QuizCard({group}) {
 
 
     const [showNextQuestion, setNextQuestion] = useState(false);
-    const [question, setQuestion] = useState();
-    const [answer, setAnswer] = useState();
-    const [id, setID] = useState();
+    const [question, setQuestion] = useState('');
     const correctRef = useRef(0);
     const wrongRef = useRef(0);
 
     function getNextQuestion() {
         let data = (getRandomQuestion(group))
-        setQuestion(data["hanzi"])
-        setAnswer(data["pinyin"])
-        setID(data["id"])
+        setQuestion(data)
         setNextQuestion(false)
     }
 
     useEffect(() => {
-        let data = (getRandomQuestion(group))
-        setQuestion(data["hanzi"])
-        setAnswer(data["pinyin"])
-        setID(data["id"])
-        setNextQuestion(false)
+        getNextQuestion()
     }, [])
 
     return (<div className="flex flex-col mx-auto">
 
         <FlashCard q={question}
-                   a={answer} audio_link={getAudioLink(id)} shouldFlip={showNextQuestion}
+                   shouldFlip={showNextQuestion}
                    setShouldFlip={setNextQuestion} getNextQuestion={getNextQuestion} wrongRef={wrongRef}
-                   correctRef={correctRef}></FlashCard>
+                   correctRef={correctRef}
+                   group={group}
+        ></FlashCard>
         <AnswerTracker correctRef={correctRef} wrongRef={wrongRef}></AnswerTracker>
 
     </div>);
