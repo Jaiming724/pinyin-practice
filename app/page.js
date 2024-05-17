@@ -1,10 +1,7 @@
-import {
-    AcademicCapIcon, BanknotesIcon, CheckBadgeIcon, ReceiptRefundIcon, UsersIcon,
-} from '@heroicons/react/24/outline'
-import {HeartIcon, BugAntIcon, CloudIcon, FaceSmileIcon} from "@heroicons/react/24/solid";
+import {BanknotesIcon, CheckBadgeIcon, ReceiptRefundIcon,} from '@heroicons/react/24/outline'
+import {BugAntIcon, CloudIcon, FaceSmileIcon, HeartIcon} from "@heroicons/react/24/solid";
 import Link from "next/link";
 import React from "react";
-import Image from 'next/image'
 import NavBar from "@/app/components/NavBar";
 
 const actions = [{
@@ -69,6 +66,16 @@ function classNames(...classes) {
 export default function Example() {
     return (
         <div>
+            <meta property="og:title" content="Pinyin Practice"/>
+            <title>Pinyin Practice</title>
+            <meta property="og:description"
+                  content="A simple website to help users practice Chinese Pinyin"/>
+            <meta property="og:type" content="website"/>
+            <meta property="og:url" content="https://pinyin.works/"/>
+            <meta name="twitter:card" content="summary_large_image"/>
+            <meta name="twitter:title" content="Pinyin Practice"/>
+            <meta name="twitter:description"
+                  content="A simple website to help users practice Chinese Pinyin"/>
             <NavBar></NavBar>
             <div className="flex items-center justify-center h-screen">
                 <div
